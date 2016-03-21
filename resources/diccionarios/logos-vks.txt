@@ -61,6 +61,8 @@ Amc
    amc
 Calle13
    canalcalle13
+   calle13hd
+   calle13
 CanalCocina
    Canal Cocina
    cocina
@@ -97,10 +99,14 @@ CanalplusAccion
    plusaccioncine
    plusaccionen
    accion
+   canal+accionhd
+   canal+accion
 CanalplusComedia
    canalpluscomedia
    pluscomedia
    comedia
+   canal+comediahd
+   canal+comedia
 CanalplusDcineEspanol
    plusdcineespa
    decineespañol
@@ -117,10 +123,13 @@ CanalplusEstrenos
 CanalplusFutbol
    Canal plus Futbol
    +fútbol
+   canal+futbol
+   canal+futboll
 CanalplusDeportes
    canalplusdeportes
    canalplusdeportesnba
    deportes
+   canal+deportes
 CanalplusGolf
    Canal plus Golf
    golf
@@ -132,6 +141,7 @@ MarcaTv
 CanalplusLiga
    canalplusliga
    liga
+   canal+liga
 CanalplusPartidazo
    canalpluspartidazo
    canalpluspartidazoelpartidazodelplus
@@ -214,8 +224,10 @@ CanalplusLiga2
    futbolporliga2
 CanalplusLigadeCampeones2
    canalplusligacampeones2
+   canal+ligadecampeones2
 CanalplusLigadeCampeones
    canalplusligadecampeones
+   canalpluscampeones
 CanalplusMultiliga
    canalplusligamultiligapartidosbbva
 GranHermanoMexico
@@ -521,3 +533,47 @@ PartyTv
    partytv
 viajar
    viajar
+AnimalPlanet
+   discoveryanimalplanet
+CaballerosdelZodiaco
+   loscaballerosdelzodiacos
+CanalEstrellas
+   canaldelasestrellas
+Cbeebies
+   cbeebies
+Chapulin
+   chapulin
+Dragonballz
+   dragonballz
+Elchavo
+   elchavoanimado
+Galatv
+   galatv
+Golden
+   golden
+LosSimpsons
+   lossimpson
+Maxprime
+   maxprime
+Maxx
+   maxhd
+Natura
+   natura
+Padredefamilia
+   padredefamilia
+Pokemon
+   pokemon
+StudioUniversal
+   studiouniversal
+Tdn
+   tdn
+Tiin
+   tiin
+Tlnovelas
+   telenovelas
+Tooncast
+   tooncast
+Ufc
+   canalufc
+Unimas
+   unimas

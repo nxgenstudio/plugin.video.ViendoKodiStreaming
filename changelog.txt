@@ -1,3 +1,16 @@
+﻿------------------------------
+de 0.0.6 a 0.0.7 (21-03-2016)
+------------------------------
+- Añadidas mas webs de canales
+- Suprimida rojadirecta Hasta que le encontremos solucion
+- Añadidos mas logos personalizados
+
+------------------------------
+de 0.0.6 a 0.0.7 (6-03-2016)
+------------------------------
+- Añadidas mas webs de torrent
+- Editado Menu torrent
+
 ------------------------------
 de 0.0.4.b a 0.0.5.b (02-03-2016)
 ------------------------------

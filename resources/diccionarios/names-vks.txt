@@ -4,6 +4,7 @@
     laprimeratve1
     la1
     tve1
+    tve1oficial
 [COLOR blue]Entretenimiento [COLOR lime]Tve 2[/COLOR]
     lasegundatve2
     la2
@@ -11,19 +12,33 @@
 [COLOR blue]Entretenimiento [COLOR lime]Antena 3[/COLOR]
     antena3
     anta3
+    antena3tv
 [COLOR blue]Entretenimiento [COLOR lime]Cuatro[/COLOR]
     cuatro
     lacuatro
+    lacuatrooficial
+    opcion2lacuatro
+    cuatrotv
 [COLOR blue]Entretenimiento [COLOR lime]Telecinco[/COLOR]
     telecinco
+    telecinco2opcion
+    telecincooficial
+    opcion2telecinco
+    tele5
 [COLOR blue]Entretenimiento [COLOR lime]La Sexta[/COLOR]
     lasexta
-[COLOR blue]Entretenimiento [COLOR lime]Antena 3 Nova[/COLOR]
+    lasextahd
+    opcion2lasexta
+    lasexta3tv
+    lasextatv
+    sexta
+[COLOR blue]Entfretenimiento [COLOR lime]Antena 3 Nova[/COLOR]
     antena3nova
     nova
     canalnovalas24h
     anta3nova
     canalnovah
+    antenanova
 [COLOR blue]Entretenimiento [COLOR lime]Canal Cocina[/COLOR]
     canalcocina
     cocina
@@ -32,9 +47,11 @@
     cosmopolitan
     canalcosmopolitanseriescosmo
     cosmo
+    cosmohd
 [COLOR blue]Entretenimiento [COLOR lime]Divinity[/COLOR]
     divinity
     divinitylas
+    Divinity
 [COLOR blue]Entretenimiento [COLOR lime]Intereconomía[/COLOR]
     intereconomiapuntopelota
     intereconomia
@@ -42,11 +59,15 @@
 [COLOR blue]Entretenimiento [COLOR lime]Neox[/COLOR]
     neox
     neoxlas24hhoras
+    Neox
+    antenaneox
 [COLOR blue]Entretenimiento [COLOR lime]13 Tv[/COLOR]
     canal13tv
     13tv
 [COLOR blue]Entretenimiento [COLOR lime]La Siete[/COLOR]
     lasiete
+[COLOR blue]Entretenimiento [COLOR lime]DeCasa[/COLOR]
+    decasa
 
 # Digital  Toros
 
@@ -55,6 +76,9 @@
     toros
     canalplustorosferiastaurinas
     toros
+    canal+toros
+    canal+toroshd
+    canalplustoros24h
 
 # Cine
 
@@ -62,25 +86,40 @@
     canalpluscomedia
     pluscomedia
     comedia
+    canal+comediahd
+    canal+comedia
 [COLOR blue]Cine [COLOR lime]Canal+ Acción[/COLOR]
     canalplusaccion
     plusaccioncine
     plusaccionen
     accion
+    canal+accionhd
+    canal+accion
 [COLOR blue]Cine [COLOR lime]Canal+ DCine[/COLOR]
     canalplusdcine
     dcine
+    canal+dcinehd
+    canal+dcine
 [COLOR blue]Cine [COLOR lime]Canal+ Estrenos[/COLOR]
     canalplusestrenos
     estros
+    canal+estrenos
+    canal+estrenos2
 [COLOR blue]Cine [COLOR lime]Canal+ Dcine Español[/COLOR]
     plusdcineespa
     dcineespañol
+    canalplusdcineñ
+    canal+dce
+    dcineñ
 [COLOR blue]Cine [COLOR lime]AMC[/COLOR]
     canalamc
     amc
 [COLOR blue]Cine [COLOR lime]Canal+ Xtra[/COLOR]
     xtra
+    plusseriesxtra
+    canal+xtra
+    canal+seriesxtra
+    canal+seriesextrahd
 [COLOR blue]Cine [COLOR lime]Canal Hollywood[/COLOR]
     canalholliwood
     canalhollywood
@@ -90,11 +129,15 @@
 [COLOR blue]Cine [COLOR lime]Xtrm[/COLOR]
     canalxtrm
     xtrm
+    xtrem
 [COLOR blue]Cine [COLOR lime]Paramount Channel[/COLOR]
     paramountchannel
     paramount
+    ParamountChannel
 [COLOR blue]Cine [COLOR lime]La Sexta 3[/COLOR]
     lasexta3todocinecine
+[COLOR blue]Cine [COLOR lime]Somos[/COLOR]
+    ramas
 
 # Series
 
@@ -103,22 +146,27 @@
     atreseries
     a3seriesseriesa3media
     a3series
+    atreseriesantena3series
 [COLOR blue]Series [COLOR lime]Factoria de Ficción[/COLOR]
     factoriadeficcionfdf
     fdffactoriadeficcionlas
     fdffactoriadeficciontelecinco
     fdf
+    factoriadeficcion
 [COLOR blue]Series [COLOR lime]Canal+ Series[/COLOR]
     canalplusseries
     +series
+    canal+series
 [COLOR blue]Series [COLOR lime]Canal+ Series Xtra[/COLOR]
     canalplusseriesxtra
     +seriesxtra
 [COLOR blue]Series [COLOR lime]Axn White[/COLOR]
     axnwhite
+    AxnWhite
 [COLOR blue]Series [COLOR lime]Axn[/COLOR]
     axn
     axncanalaxn
+    axnhd
 [COLOR blue]Series [COLOR lime]La 9[/COLOR]
     lanuevelassupervivientesresumenes
     lanueve
@@ -129,71 +177,111 @@
     lafox
     fox
     canalfox
+    foxhd
+    fox2opcion
+    lafoxhd
 [COLOR blue]Cine y Series [COLOR lime]Canal #0[/COLOR]
     canalplus
     canalplus1
     1uno
+    canal+1
+    canal+1hd
+    canal+
 [COLOR blue]Cine y Series [COLOR lime]Canal+ 2[/COLOR]
     canalplus2
+    canal+2
 [COLOR blue]Cine y Series [COLOR lime]Alx[/COLOR]
     alxsyfy
+    alx
+    axlsyfy
 [COLOR blue]Cine y Series [COLOR lime]Calle 13[/COLOR]
     canalcalle13
     calle13
+    calle13hd
 [COLOR blue]Cine y Series [COLOR lime]Syfy[/COLOR]
     canalsyfy
     syfy
     sifylas
     syfycastellano
+    syfyhd
 [COLOR blue]Cine y Series [COLOR lime]Tnt[/COLOR]
     canaltnt
     tntespana
     tntlas
     tnt
+    tnthd
 [COLOR blue]Cine y Series [COLOR lime]Fox Life[/COLOR]
     foxlife
+    foxcrimehd
+    lafoxlife
 [COLOR blue]Cine y Series [COLOR lime]Paramount Comedy[/COLOR]
     comedycentral
+    centralcomedy
 [COLOR blue]Cine y Series [COLOR lime]Paramount Comedy[/COLOR]
     paramountcomedy
 [COLOR blue]Cine y Series [COLOR lime]TCM[/COLOR]
     tcm
+
 # Documentales
+
 [COLOR blue]Documentales [COLOR lime]Crimen & Investigacion[/COLOR]
     c+i
+    crimenyinvestigacion
 [COLOR blue]Documentales [COLOR lime]A&E[/COLOR]
     bio
     biochannel
     canalbio
     ae
+    canalbiochannel
+    a&e
+    canalae
 [COLOR blue]Documentales [COLOR lime]Xplora[/COLOR]
     canalxplora
     xplora
 [COLOR blue]Documentales [COLOR lime]Canal Historia[/COLOR]
     canalhistoria
     historia
+    canalhistoriaespaña
+    history
+    historiahd
 [COLOR blue]Documentales [COLOR lime]Odisea[/COLOR]
     canalodisea
     odisea
+    Odisea
 [COLOR blue]Documentales [COLOR lime]Caza y Pesca[/COLOR]
     cazapesca
     cazaypesca
 [COLOR blue]Documentales [COLOR lime]Discovery Channel[/COLOR]
     discoverychannel
     discovery
+    discoverychannelespañol
+    discoverychannel2
 [COLOR blue]Documentales [COLOR lime]Discovery Max[/COLOR]
     discoverymax
     discoverymaxlasdocumentales
+    discoverymaxespaña
+[COLOR blue]Documentales [COLOR lime]Discovery Civilization[/COLOR]
+    discoverycivilization
+[COLOR blue]Documentales [COLOR lime]Discovery H&H[/COLOR]
+    discoveryh&h
+[COLOR blue]Documentales [COLOR lime]Discovery Kids[/COLOR]
+    discoverykids
+[COLOR blue]Documentales [COLOR lime]Natura[/COLOR]
+    natura
+[COLOR blue]Documentales [COLOR lime]Animal Planet[/COLOR]
+    discoveryanimalplanet
 [COLOR blue]Documentales [COLOR lime]Energy[/COLOR]
     canalenergy
     energy
     energytikitaka
     energyeltikitaka
     ergy
+    Energy
 [COLOR blue]Documentales [COLOR lime]Mega[/COLOR]
     mega
     canalmega
     canalmegaatresmedia
+    Mega
 [COLOR blue]Documentales [COLOR lime]Nat Geo Wild[/COLOR]
     natgeowild
     natgeowill
@@ -203,6 +291,10 @@
     nationalgeographiclasdocumental
     natgeo
     nationalgeografhicchannel
+    n.geographic
+    nationalgeographicespaña
+    natgeographic
+    natgeographichd
 [COLOR blue]Documentales [COLOR lime]Viajar[/COLOR]
     viajar
 
@@ -213,39 +305,60 @@
 [COLOR blue]Deportes [COLOR lime]Canal+ Liga[/COLOR]
     canalplusliga
     liga
+    canal+liga
 [COLOR blue]Deportes [COLOR lime]Canal+ Liga 2[/COLOR]
     futbolporcanalplusliga2
     canalplusliga2
     canalplusliga2,ligaadelante
     futbolporliga2
+    canalplusliga2ligadesegundadivision
+    canal+liga2
+    canalplusliga2futboldesegundadivision
 [COLOR blue]Deportes [COLOR lime]Canal+ Liga de Campeones[/COLOR]
     ligadecampeoneslas
     canalplusligadecampeones
+    canal+ligadecamp
+    canal+ligahdopcion2
+    canal+ligadecampeones
+    canalpluscampeones
 [COLOR blue]Deportes [COLOR lime]Canal+ Liga de Campeones 2[/COLOR]
     canalplusligacampeones2
+    canal+ligadecampeones2
 [COLOR blue]Deportes [COLOR lime]Canal+ Fútbol[/COLOR]
     canalplusfutbol
     +fútbol
+    canal+futbol
+    canal+futboll
 [COLOR blue]Deportes [COLOR lime]Canal+ Deportes[/COLOR]
     canalplusdeportes
     canalplusdeportesnba
     deportes
+    canal+deportes
 [COLOR blue]Deportes [COLOR lime]Canal+ Deportes 2[/COLOR]
     canalplusdeportes2
     canalplusdeportes2las
     deportes2
+    canal+deportes2
+    canal+deportesopcion2
 [COLOR blue]Deportes [COLOR lime]Canal+ Partidazo[/COLOR]
     canalpluspartidazo
     canalpluspartidazoelpartidazodelplus
     partidazo
+    pluspartidazo
+    canal+partidazo
 [COLOR blue]Deportes [COLOR lime]Canal+ Multiliga[/COLOR]
     canalplusligamultiligapartidosbbva
 [COLOR blue]Deportes [COLOR lime]Canal+ Golf[/COLOR]
     canalplusgolf
     golf
+    canal+golf
 [COLOR blue]Deportes [COLOR lime]Bein Sport[/COLOR]
     beinsport
     beinsports
+    beinsportsopcion
+    bein1hdsports
+[COLOR blue]Deportes [COLOR lime]Bein Sport Max[/COLOR]
+    beinmax2
 [COLOR blue]Deportes [COLOR lime]EuroSport[/COLOR]
     eurosports
     canaleurosport
@@ -259,23 +372,29 @@
 [COLOR blue]Deportes [COLOR lime]Barça Tv[/COLOR]
     barsatv
     barcatv
+    barçatv
 [COLOR blue]Deportes [COLOR lime]Formula 1[/COLOR]
     formula1
     laf1formula1
+    laformula1
 [COLOR blue]Deportes [COLOR lime]Moto Gp[/COLOR]
     motogp
     motogpsportv1movistar
+    movistarf1tmotogphd
 [COLOR blue]Deportes [COLOR lime]Real Madrid Tv[/COLOR]
     realmadridtv
 [COLOR blue]Deportes [COLOR lime]Sportmania[/COLOR]
     sportmania
     sportmaniafutbolinternacional
+    sportsmania
+    espormania
 [COLOR blue]Deportes [COLOR lime]Teledeporte[/COLOR]
     teledeporte
 [COLOR blue]Deportes [COLOR lime]Marca Tv[/COLOR]
     marcatv
 [COLOR blue]Deportes [COLOR lime]Evento 1[/COLOR]
     eventos1
+    Eventos1
 [COLOR blue]Deportes [COLOR lime]Evento 2[/COLOR]
     eventos2
 [COLOR blue]Deportes [COLOR lime]Evento 3[/COLOR]
@@ -284,13 +403,20 @@
     sevillafctelevision
     sevillafctv
     sfctv
-
+[COLOR blue]Deportes [COLOR lime]Gol TV[/COLOR]
+    goltv
+[COLOR blue]Deportes [COLOR lime]UFC Network[/COLOR]
+    canalufc
 
 # Noticias
 
 [COLOR blue]Noticias [COLOR lime]Tve 24 Horas[/COLOR]
     tve24h
     tve24hnoticias
+    324noticies
+    4hnoticias
+    24htve
+    tveh
 
 # Infantiles
 
@@ -299,28 +425,60 @@
 [COLOR blue]Infantiles [COLOR lime]Disney Cinemagic[/COLOR]
     disneycinemagic
     cinemagic
+    disneymagic
 [COLOR blue]Infantiles [COLOR lime]Boing[/COLOR]
     boing
+    b0ing
+[COLOR blue]Infantiles [COLOR lime]Boomerang[/COLOR]
+    boomerang
 [COLOR blue]Infantiles [COLOR lime]Clan[/COLOR]
     clantv
+    clantvhd
 [COLOR blue]Infantiles [COLOR lime]Nick HD[/COLOR]
     nickhd
+[COLOR blue]Infantiles [COLOR lime]Nick JR[/COLOR]
+    nickjr
+[COLOR blue]Infantiles [COLOR lime]NickToons[/COLOR]
+    nicktoons
 [COLOR blue]Infantiles [COLOR lime]Disney Channel[/COLOR]
     disneychannel
+    canaldisneychannel
+    disney
+[COLOR blue]Infantiles [COLOR lime]Disney XD[/COLOR]
+    disneyxd
+[COLOR blue]Infantiles [COLOR lime]Disney Junior[/COLOR]
+    disneyjunior
+[COLOR blue]Infantiles [COLOR lime]Nickelodeon[/COLOR]
+    nickelodeon
+[COLOR blue]Infantiles [COLOR lime]CBeebies[/COLOR]
+    cbeebies
 
 # Realities
-
+[COLOR blue]Realities Shows [COLOR lime]Gran Hermano 16[/COLOR]
+    gh16
+    granhermano16
 [COLOR blue]Realities Shows [COLOR lime]Gran Hermano Vip[/COLOR]
     granhermanovip
     granhermano1524h
+    granhermano15
+    granhermanotv
 [COLOR blue]Realities Shows [COLOR lime]Mtv[/COLOR]
     mtv
     mtvespana
     mtvlas
     mtvespaña
+    Mtv
 
 # Latinos Entretenimiento
 
+[COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Televisa[/COLOR]
+
+[COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]TlNovelas[/COLOR]
+    telenovelas
+[COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]UniMas[/COLOR]
+    unimas
+[COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Gala TV[/COLOR]
+    galatv
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Tv Pública Canal Siete[/COLOR]
     lasietetvpublicaargentina
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]VTV[/COLOR]
@@ -353,8 +511,11 @@
     ecuavisa
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Gama Tv[/COLOR]
     gamatv
+[COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Canal De Las Estrellas[/COLOR]
+    canaldelasestrellas
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Azteca 7[/COLOR]
     azteca7
+    canal7
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Azteca Trece[/COLOR]
     azteca13tv
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Atv[/COLOR]
@@ -378,24 +539,39 @@
 [COLOR gold]Latinos [COLOR blue]Entretenimiento [COLOR lime]Venevisión[/COLOR]
     venevision
 
+# Latinos Documentales
+
+[COLOR gold]Latinos [COLOR blue]Documentales [COLOR lime]H2 (History 2)[/COLOR]
+    h2
+
 # Latinos Deportes
 
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]DirecTv Sport[/COLOR]
     directvsports
+    directvsport
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Espn[/COLOR]
     espn
+    espnlatinoamerica
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Fox Deportes[/COLOR]
     foxdeportes
     foxdeportespartidos
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Fox Sports[/COLOR]
     foxsports
     foxsportsdeportes
+    foxsports2
+    foxsport
+[COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]TDN (Televisa Deportes Network)[/COLOR]
+    tdn
+[COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]TVC Deportes[/COLOR]
+    tvc
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]TyC Sports[/COLOR]
     tycsports
-[COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Caracol[/COLOR]
+    tycsport
+[COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Caracol (Colombia)[/COLOR]
     canalcaracoltv
     caracoltvdeporteslatinoscolombia
     canalcaracol
+    caracoltv
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Canal 6[/COLOR]
     canal6partidos
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Univisión[/COLOR]
@@ -408,25 +584,45 @@
     copaoro
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Espn 2[/COLOR]
     espn2deportes
+    espn2
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Espn[/COLOR]
     espndeportes
 
 # Latinos cine
 
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Cine 24 Horas[/COLOR]
+    canalesdepeliculas
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Studio Universal[/COLOR]
+    studiouniversal
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]FOX 1[/COLOR]
+    moviecity
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Golden[/COLOR]
+    golden
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Cine Canal[/COLOR]
+    cinecanal
 [COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Warner Channel[/COLOR]
     warnerchannel
     warnerchannelvivo
+    warner
 [COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Cine Max[/COLOR]
     canalcinemax
     cinemax
+    Cinemax
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Max[/COLOR]
+    maxhd
+[COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Max Prime[/COLOR]
+    maxprime
 [COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Canal Fx[/COLOR]
     canalfx
     fx
 [COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Space[/COLOR]
     canalspace
+    space
 [COLOR gold]Latinos [COLOR blue]Cine [COLOR lime]Universal[/COLOR]
     canaluniversal
     canaluniversalchannel
+    universalchannel
+    universal
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]CMD[/COLOR]
     cmddeportefutbol
     cmd
@@ -435,13 +631,18 @@
 
 # Latinos Cine y Series
 
+
 [COLOR gold]Latinos [COLOR blue]Cine y Series [COLOR lime]HBO Home Box Office[/COLOR]
     hbohomeoffice
     hboboxhomeoffice
+    hboboxoffice
 [COLOR gold]Latinos [COLOR blue]Cine y Series [COLOR lime]HBO Latino[/COLOR]
     hbolatino
 [COLOR gold]Latinos [COLOR blue]Cine y Series [COLOR lime]HBO Plus[/COLOR]
     hboplus
+    hbo
+[COLOR gold]Latinos [COLOR blue]Cine y Series [COLOR lime]HBO 2[/COLOR]
+    hbo2
 [COLOR gold]Latinos [COLOR blue]Cine y Series [COLOR lime]Mundo Fox[/COLOR]
     mundofox
 [COLOR gold]Latinos [COLOR blue]Cine y Series [COLOR lime]Tnt[/COLOR]
@@ -451,15 +652,20 @@
 
 [COLOR gold]Latinos [COLOR blue]Series [COLOR lime]Axn[/COLOR]
     axnlatino
-
+[COLOR gold]Latinos [COLOR blue]Series [COLOR lime]Chespirito[/COLOR]
+    chespirito
+[COLOR gold]Latinos [COLOR blue]Series [COLOR lime]Padre de Familia[/COLOR]
+    padredefamilia
 
 # Latinos Realities
 
 [COLOR gold]Latinos [COLOR blue]Realities Shows [COLOR lime]Gran Hermano Mexico[/COLOR]
     granhermanomexico
     bigbrothermexico.lacasa.
+    ghmexico
 [COLOR gold]Latinos [COLOR blue]Realities Shows [COLOR lime]Gran Hermano Argentina[/COLOR]
     granhermanoargentina2015
+    granhermano2015
 
 # Latinos noticias
 
@@ -467,15 +673,25 @@
     americatv2
 [COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]A 24[/COLOR]
     canala24
+    a24
 [COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]Canal 5 Noticias[/COLOR]
     cn5noticias
     c5n
+    canal5
 [COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]El 9[/COLOR]
     elnueve
     canalnueveargentinaelcanal9
+[COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]canal ONCE[/COLOR]
+    canalonce
 [COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]El Trece[/COLOR]
     eltrece
     el13elcanaleltrece
+[COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]El Trece (Argentina)[/COLOR]
+    el13
+[COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]TV Publica(Argentina)[/COLOR]
+    tvpublica
+[COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]C5N (Argentina)[/COLOR]
+    cn5
 [COLOR gold]Latinos [COLOR blue]Noticias [COLOR lime]Magazine[/COLOR]
     magazine
     canalmagazinetv
@@ -493,9 +709,22 @@
 
 # Latinos infantiles
 
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Tiin[/COLOR]
+    tiin
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]El Chavo[/COLOR]
+    elchavoanimado
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Pokemon[/COLOR]
+    pokemon
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Dragon Ball Z[/COLOR]
+    dragonballz
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Los Caballeros del Zodiaco[/COLOR]
+    loscaballerosdelzodiacos
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Los Simpson[/COLOR]
+    lossimpson
 [COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Nick[/COLOR]
     nick
-
+[COLOR gold]Latinos [COLOR blue]Infantiles [COLOR lime]Tooncast[/COLOR]
+    tooncast
 
 # Autonomicos
 
@@ -507,6 +736,7 @@
     tpa
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Tele Madrid[/COLOR]
     telemadrid
+    Telemadrid
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Tele Asturias[/COLOR]
     teleasturias
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Tele Toledo[/COLOR]
@@ -517,6 +747,7 @@
     laotra
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]IB3[/COLOR]
     ib3
+    ib3baleares
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Galicia TV[/COLOR]
     galiciatv
     tvgalicia
@@ -524,17 +755,25 @@
     extremaduratv
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]ETB SAT[/COLOR]
     etbsat
+    etb
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]CYL TV[/COLOR]
     cyltv
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Canal Sur[/COLOR]
     canalsur
+    canalsur2opcion
+    canalsur1
+    canalsur2
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Aragon TV[/COLOR]
     aragontv
+    Aragontv
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Andalucia TV[/COLOR]
     andaluciatv
+[COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Castilla la mancha TV[/COLOR]
+    castillamanchatv
 [COLOR linen]Autonómicos [COLOR blue]Deportes [COLOR lime]Sport 3[/COLOR]
     sport3
     esport3
+    Esport3
 [COLOR linen]Autonómicos [COLOR blue]TDT [COLOR lime]Barcelona Televisió[/COLOR]
     canalbarcelonatv
 
@@ -555,6 +794,7 @@
     playboy
     playboytv
     canalplayboy
+    canalhustlertvhd
 [COLOR red]Canal X [COLOR lime]Canal Buzz Rojo[/COLOR]
     buzzrojo
     canalbuzzrojo+18
@@ -562,6 +802,7 @@
 [COLOR red]Canal X [COLOR lime]Venus Tv[/COLOR]
     canalvenus
     canalvenusvideosxx
+    venus
 [COLOR red]Canal X [COLOR lime]Hustler[/COLOR]
     hustlertv
     hustlerporno
@@ -597,5 +838,4 @@
     combatedelsiglo
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]RAW[/COLOR]
     raw
-[COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Sport 1[/COLOR]
-    sport1
+
