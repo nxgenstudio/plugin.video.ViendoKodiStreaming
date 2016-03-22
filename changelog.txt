@@ -1,4 +1,10 @@
 ﻿------------------------------
+de 0.0.8 a 0.0.9 (23-03-2016)
+------------------------------
+- Suprimidas webs con errores añadidas y corregidas otras webs
+------------------------------
+
+------------------------------
 de 0.0.7 a 0.0.8 (21-03-2016)
 ------------------------------
 - Suprimida rojadirecta Hasta que le encontremos solucion
