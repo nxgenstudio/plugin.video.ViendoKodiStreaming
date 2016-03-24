@@ -682,7 +682,7 @@ class Main:
                 outfile.write('item_info_name=url\n'
                 + 'item_info_from=@PARAM1@\n' + addonTorrent + '\n' )
                 outfile.close()
-                common.showInfo('Para los torrent se utilizará ' + nametorrent )
+                common.showInfo('[COLOR red]NO INSTALAR[/COLOR] pulsar y quasar juntos en el mismo Media Center (KODI) ya que se crearan conflictos y no funcionara ninguno [COLOR lime]Para los torrent se utilizará[/COLOR] ' + nametorrent )
 
             elif len(paramstring) <= 2:
                 mainMenu = ListItem.create()

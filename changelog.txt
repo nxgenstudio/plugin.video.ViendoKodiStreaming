@@ -1,4 +1,10 @@
 ﻿------------------------------
+de 0.1.0 a 0.1.2 (24-03-2016)
+------------------------------
+- Se añade nota informativa en setting de conflito con pulsar y quasar en el mismo media center para evitar problemas
+------------------------------
+
+------------------------------
 de 0.1.0 a 0.1.1 (24-03-2016)
 ------------------------------
 - Se anula opcion 2 de dinozap y se actualiza para su correcto funcionamiento en los diferentes links del servidor
