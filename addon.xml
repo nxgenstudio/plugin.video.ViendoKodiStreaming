@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <addon
     id="plugin.video.ViendoKodiStreaming"
-    version="0.0.9"
+    version="0.1.0"
     name=" [COLOR blue]ViendoKodi[/COLOR] [COLOR red]Streaming[/COLOR]"
     provider-name="[COLOR red]ViendoKodi[/COLOR] Team">
     <requires>

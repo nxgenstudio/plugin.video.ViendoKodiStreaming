@@ -1,4 +1,10 @@
 ﻿------------------------------
+de 0.0.9 a 0.1.0 (24-03-2016)
+------------------------------
+- Se repara Regex de la Web vercanalestv.com por cambios en la web
+------------------------------
+
+------------------------------
 de 0.0.8 a 0.0.9 (23-03-2016)
 ------------------------------
 - Suprimidas webs con errores añadidas y corregidas otras webs
