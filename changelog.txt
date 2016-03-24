@@ -1,4 +1,10 @@
 ﻿------------------------------
+de 0.1.0 a 0.1.1 (24-03-2016)
+------------------------------
+- Se anula opcion 2 de dinozap y se actualiza para su correcto funcionamiento en los diferentes links del servidor
+------------------------------
+
+------------------------------
 de 0.0.9 a 0.1.0 (24-03-2016)
 ------------------------------
 - Se repara Regex de la Web vercanalestv.com por cambios en la web
