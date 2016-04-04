@@ -111,7 +111,7 @@ class Main:
             xbmcplugin.setResolvedUrl(self.handle, True, listitem)
         else:
             url = urllib.unquote_plus(videoItem['url'])
-            xbmc.Player(self.getPlayerType()).play(url, listitem)
+            xbmc.Player().play(url, listitem)
 
     def launchChrome(self, url, title):
         action = 'RunPlugin(%s)' % ('plugin://plugin.program.chrome.launcher/?kiosk=yes&mode=showSite&stopPlayback=yes&url=' + url)
@@ -125,7 +125,7 @@ class Main:
             liz = xbmcgui.ListItem(title)
             liz.setPath(video)
             liz.setProperty('IsPlayable','true')
-            xbmc.Player(self.getPlayerType()).play(video, liz)
+            xbmc.Player().play(video, liz)
         except:
             import sys,traceback
             traceback.print_exc(file = sys.stdout)
@@ -309,7 +309,7 @@ class Main:
             if url.startswith('favfolders'):
                 proceed = True
             else:
-                common.showInfo('No stream available')
+                common.showInfo('Lo siento, no esta disponible')
         elif count > 0 and not (common.getSetting('autoplay') == 'true' and count == 1 and len(tmpList.getVideos()) == 1):
             # sort methods
             sortKeys = tmpList.sort.split('|')
@@ -371,13 +371,17 @@ class Main:
             else:
                 icon = common.Paths.defaultCategoryIcon
 
-        liz = xbmcgui.ListItem(title, title, iconImage=icon, thumbnailImage=icon)
-
         fanart = item['fanart']
         if not fanart:
             fanart = common.Paths.pluginFanart
-        liz.setProperty('fanart_image', fanart)
 
+        liz = xbmcgui.ListItem(title)
+        try:
+            liz.setArt({'thumb': icon, 'fanart': fanart})
+        except:
+            liz.setProperty('fanart_image', fanart)
+            liz.setThumbnailImage(icon)
+            common.log('main.py:374: setThumbnailImage is deprecated')
         """
         General Values that apply to all types:
             count         : integer (12) - can be used to store an id for later, or for sorting purposes
@@ -431,7 +435,14 @@ class Main:
 
         if m_type == 'video':
             liz.setProperty('IsPlayable','true')
-            #liz.setMimeType('text')
+
+        if title.startswith('p2pcast'):
+            try:
+                liz.setMimeType('application/vnd.apple.mpegurl')
+                #liz.setContentLookup(False)
+            except:
+                common.showError('Update Kodi to 16+ to view this stream')
+                return None
 
         return liz
 
@@ -682,7 +693,7 @@ class Main:
                 outfile.write('item_info_name=url\n'
                 + 'item_info_from=@PARAM1@\n' + addonTorrent + '\n' )
                 outfile.close()
-                common.showInfo('[COLOR red]NO INSTALAR[/COLOR] pulsar y quasar juntos en el mismo Media Center (KODI) ya que se crearan conflictos y no funcionara ninguno [COLOR lime]Para los torrent se utilizará[/COLOR] ' + nametorrent )
+                common.showInfo('[COLOR red]NO INSTALAR[/COLOR] conjuntamente los addon pulsar y quasar.\nYa que tendremos problemas de compatibilidad y no funcionará ninguno. [COLOR lime] \nPara los torrent se utilizará: [/COLOR] ' + nametorrent )
 
             elif len(paramstring) <= 2:
                 mainMenu = ListItem.create()

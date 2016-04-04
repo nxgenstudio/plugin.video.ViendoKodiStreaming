@@ -1,10 +1,140 @@
+icon
+   peliculas
+   cazapesca
+   cazaypesca
+   tve24h
+   tve24hnoticias
+   24htve
+   tveh
+   tvenoticias
+   granhermanovip
+   granhermano1524h
+   granhermano15
+   granhermanotv
+   directvsports
+   directvsport
+   gh16
+   granhermano16
+   granhermanomexico
+   bigbrothermexico.lacasa.
+   ghmexico
+   boing
+   b0ing
+   clantv
+   clantvhd
+   sevillafctelevision
+   sevillafctv
+   sfctv
+   granhermanoargentina2015
+   granhermano2015
+   canalfx
+   fx
+   canala24
+   a24
+   americatv2
+   cn5noticias
+   c5n
+   canal5
+   cn5
+   elnueve
+   canalnueveargentinaelcanal9
+   magazine
+   canalmagazinetv
+   tnnoticias
+   tn24
+   canalhotadultos
+   redlightxxxvideosporno
+   canalredlight
+   canalvenus
+   canalvenusvideosxx
+   venus
+   lasiete
+   canalplusligacampeones2
+   canal+ligadecampeones2
+   ligadecampeoneslas
+   canalplusligadecampeones
+   canal+ligadecamp
+   canal+ligahdopcion2
+   canal+ligadecampeones
+   canalpluscampeones
+   copaoro
+   vtv
+   chelseatv
+   sporttv1
+   sport1
+   wwewwe
+   wwe
+   copaamericachile2015
+   americatv
+   canal13
+   aricatv
+   chilevision
+   cdf
+   copaamericachile2015
+   americatv
+   tvuniacc
+   tvn
+   canalrcntelevisiony
+   telemedellin
+   canaltelepacifico
+   ntntv
+   tn24
+   canalunoecuador
+   ecuadortv
+   ecuavisa
+   gamatv
+   rtu
+   cmddeportefutbol
+   cmd
+   atv+
+   globaltelevision
+   montecarlotv
+   vtvuruguay
+   dattv
+   telesur
+   globovisionvenezuela
+   abonofutbol
+   watchbtsport1freelivestream
+   watchbtsport2freelivestream
+   machainesportfreedirect
+   combatedelsiglo
+   raw
+   eventos1
+   eventos2
+   eventos3
+   ramas
+   discoverycivilization
+   discoveryh&h
+   discoverykids
+   viajar
+   decasa
+   boomerang
+   disneyjunior
+   nickjr
+   nickelodeon
+   nicktoons
+   cinecanal
+   beinmax2
+   castillamanchatv
+   324noticies
+   canalesdepeliculas
+   eltrece
+   el13elcanaleltrece
+   el13
+   tvpublica
+
 DisneyChannel
-   disneychannel
+    disneychannel
+    canaldisneychannel
+    disney
 bandamax
    Bandamax
 La1
    laprimeratve1
+   la1
    tve1
+   tve1oficial
+
 La2
    lasegundatve2
    tve2
@@ -12,26 +142,43 @@ Antena3
    antena3
    anta3
 Cuatro
-   cuatro
-   lacuatro
+    cuatro
+    lacuatro
+    lacuatrooficial
+    opcion2lacuatro
+    cuatrotv
 Tele5
    telecinco
+   telecinco2opcion
+   telecincooficial
+   opcion2telecinco
+   tele5
 LaSexta
    lasexta
+   lasextahd
+   opcion2lasexta
+   lasexta3tv
+   lasextatv
+   sexta
 RealMadridTv
    realmadridtv
 Alx
-   alxsyfy
+    alxsyfy
+    alx
+    axlsyfy
 LaNueve
    lanuevelassupervivientesresumenes
    lanueve
 LaSexta3
    lasexta3todocinecine
 Antena3Nova
-   nova
-   canalnovalas24h
-   canalnovah
-   anta3nova
+    antena3nova
+    nova
+    canalnovalas24h
+    anta3nova
+    canalnovah
+    antenanova
+
 Astreseries
    atreseries
    astreseries
@@ -47,14 +194,18 @@ BarsaTv
    barsatv
    barcatv
 BeinSport
-   Bein Sport
+   beinsport
    beinsports
+   beinsportsopcion
+   bein1hdsports
 AyE
-   aye
-   bio
-   biochannel
-   canalbio
-   ae
+    bio
+    biochannel
+    canalbio
+    ae
+    canalbiochannel
+    a&e
+    canalae
 Amc
    canalamc
    canalamchd
@@ -67,18 +218,22 @@ CanalCocina
    Canal Cocina
    cocina
 Cosmopolitan
-   canalcosmopolitan
-   cosmopolitan
-   canalcosmopolitanseriescosmo
-   cosmo
+    canalcosmopolitan
+    cosmopolitan
+    canalcosmopolitanseriescosmo
+    cosmo
+    cosmohd
+
 Energy
    canalenergy
    energytikitaka
    energyeltikitaka
-   ergy
+   verergy
 Historia
-   canalhistoria
-   historia
+    canalhistoria
+    historia
+    history
+    historiahd
 Hollywood
    canalholliwood
    canalhollywood
@@ -92,8 +247,8 @@ Tcm
    TCM
    tcm
 CrimeyInvestigation
-   Crime y Investigation
-   c+i
+    c+i
+    crimenyinvestigacion
 CanalplusAccion
    canalplusaccion
    plusaccioncine
@@ -109,20 +264,22 @@ CanalplusComedia
    canal+comedia
 CanalplusDcineEspanol
    plusdcineespa
-   decineespañol
+   canal+dce
 CanalplusDCine
-   Canal plus DCine
-   dcine
+    canalplusdcine
+    dcine
+    canal+dcinehd
+    canal+dcine
 CanalplusDeportes2
    canalplusdeportes2
    canalplusdeportes2las
    deportes2
 CanalplusEstrenos
-   Canal plus Estrenos
-   estros
+    canalplusestrenos
+    estros
+    canal+estrenos
+    canal+estrenos2
 CanalplusFutbol
-   Canal plus Futbol
-   +fútbol
    canal+futbol
    canal+futboll
 CanalplusDeportes
@@ -134,8 +291,11 @@ CanalplusGolf
    Canal plus Golf
    golf
 Formula1
-   formula1
-   laf1formula1
+    formula1
+    laf1formula1
+    laformula1
+    formula1f1
+    laformu
 MarcaTv
    marcatv
 CanalplusLiga
@@ -143,28 +303,43 @@ CanalplusLiga
    liga
    canal+liga
 CanalplusPartidazo
-   canalpluspartidazo
-   canalpluspartidazoelpartidazodelplus
-   partidazo
+    canalpluspartidazo
+    canalpluspartidazoelpartidazodelplus
+    partidazo
+    pluspartidazo
+    canal+partidazo
 CanalplusSeriesXtra
-   canalplusseriesxtra
+    xtra
+    plusseriesxtra
+    canal+xtra
+    canal+seriesxtra
+    canal+seriesextrahd
 CanalplusSeries
-   canalplusseries
+    canalplusseries
+    +series
+    canal+series
 CanalplusToros
-   canalplustoros
-   toros
-   canalplustorosferiastaurinas
-   toros
+    canalplustoros
+    toros
+    canalplustorosferiastaurinas
+    canal+toros
+    canal+toroshd
+    canalplustoros24h
 Canalplus
-   Canal plus
-   canalplus1
-   1uno
+    canalplus
+    canalplus1
+    1uno
+    canal+1
+    canal+1hd
+    canal+
 Canalplus2
-   Canal plus 2
+    canalplus2
+    canal+2
 Syfy
    syfy
    canalsyfy
-    syfycastellano
+   syfycastellano
+   syfyhdcastellano
    sifylas
 Tnt
    canaltnt
@@ -174,24 +349,24 @@ Xplora
    canalxplora
    xplora
 Xtrm
-   canalxtrm
+    canalxtrm
+    xtrm
+    xtrem
 CartoonNetwork
    Cartoon Network
 DiscoveryChannel
-   discoverychannel
-   discovery
-CazayPesca
-   cazapesca
-   cazaypesca
+    discoverychannel
+    discovery
+    discoverychannel2
 NBA
-   NBA
+   nba
 Partidos
-   Partidos
+   partidos
 DisneyCinemagic
    disneycinemagic
    cinemagic
 Divinity
-   Divinity
+   divinity
    divinitylas
 EuroSport2
    eurosports2
@@ -202,50 +377,46 @@ EuroSport
    canaleurosport
    eurosportlas
    eurosport
+   eurosportscastellano
 FactoriadeFiccion
    factoriadeficcionfdf
    fdffactoriadeficcionlas
    fdffactoriadeficciontelecinco
    fdf
 Fox
-   fox
-   canalfox
+    lafox
+    fox
+    canalfox
+    foxhd
+    fox2opcion
+    lafoxhd
 FoxCrimen
    Fox Crimen
 FoxLife
-   foxlife
-SevillaFc
-   sevillafctelevision
-   sfctv
+    foxlife
+    foxcrimehd
+    lafoxlife
+
 CanalplusLiga2
-   futbolporcanalplusliga2
-   canalplusliga2
-   canalplusliga2,ligaadelante
-   futbolporliga2
-CanalplusLigadeCampeones2
-   canalplusligacampeones2
-   canal+ligadecampeones2
-CanalplusLigadeCampeones
-   canalplusligadecampeones
-   canalpluscampeones
+    futbolporcanalplusliga2
+    canalplusliga2
+    canalplusliga2,ligaadelante
+    futbolporliga2
+    canalplusliga2ligadesegundadivision
+    canal+liga2
+    canalplusliga2futboldesegundadivision
 CanalplusMultiliga
    canalplusligamultiligapartidosbbva
-GranHermanoMexico
-   granhermanomexico
-   bigbrothermexico.lacasa.
-GranHermanoArgentina
-   granhermanoargentina2015
-GranHermanoVip
-   granhermanovip
+
 Hustler
-   hustlertv
-   hustlerporno
+    hustlertv
+    hustlerporno
+    hustlertvhd
+    canalhustlertvhd
 PlayboyTv
    playboy
    canalplayboy
-VenusTv
-   canalvenus
-   canalvenusvideosxx
+
 CanalBuzzRojo
    buzzrojo
    canalbuzzrojo+18
@@ -259,40 +430,49 @@ Mega
    canalmega
    canalmegaatresmedia
 MotoGp
-   motogp
-   motogpsportv1movistar
+    motogp
+    motogpsportv1movistar
+    movistarf1tmotogphd
 NatGeoWild
    natgeowill
    natgeowild
    nationalwildlasaqui
 NationalGeographicChannel
-   nationalgeographic
-   nationalgeographiclasdocumental
-   natgeo
-   nationalgeografhicchannel
+    nationalgeographic
+    nationalgeographiclasdocumental
+    natgeo
+    nationalgeografhicchannel
+    n.geographic
+    natgeographic
+    natgeographichd
 Neox
    neox
    neoxlas24hhoras
+   antenaneox
+
 ParamountChannel
    Paramount Channel
    paramount
+
 ParamountComedy
-   Paramount Comedy
-ComedyCentral
-   Comedy Central
-   comedycentral
+    paramountcomedy
+    comedycentral
+    centralcomedy
+
 LaSiete
    lasiete
 Sportmania
-   sportmania
-   sportmaniafutbolinternacional
+    sportmania
+    sportmaniafutbolinternacional
+    sportsmania
+    espormania
 Tele5
    Telecinco
 Teledeporte
    Teledeporte
 13Tv
-   13tv
-   13tv
+    canal13tv
+    13tv
 DiscoveryMax
    discoverymax
    discoverymaxlasdocumentales
@@ -300,18 +480,8 @@ Mtv
    mtv
    mtvespana
    mtvlas
-   mtvespaña
-Tve24Horas
-   tve24h
-   tve24hnoticias
-Peliculas
-   peliculas
-America
-   americatv2
-A24
-   a24
-DirecTvSport
-   directvsports
+
+
 EspnClassic
    Espn Classic
 Espn
@@ -324,68 +494,56 @@ FoxDeportes
 GolTv
    Gol Tv
 TyCSports
-   tycsports
+    tycsports
+    tycsport
 CineMax
    canalcinemax
    cinemax
 Space
    canalspace
 Universal
-   canaluniversal
-   canaluniversalchannel
-Canal5Noticias
-   cn5noticias
-   c5n
-El9
-   elnueve
-   canalnueveargentinaelcanal9
+    canaluniversal
+    canaluniversalchannel
+    universalchannel
+    universal
+
+
 ElTrece
    eltrece
    el13elcanaleltrece
 HBOHomeBoxOffice
-   hbohomeoffice
-   hboboxhomeoffice
+    hbohomeoffice
+    hboboxhomeoffice
+    hboboxoffice
+
+
 HBOLatino
    hbolatino
 HBOPlus
-   hboplus
+    hboplus
+    hbo
 TvPublicaCanalSiete
    lasietetvpublicaargentina
-Magazine
-   magazine
-   canalmagazinetv
 MundoFox
    mundofox
 Telefe
    telefe
-TodoNoticias
-   tnnoticias
+
 WarnerChannel
    warnerchannel
    warnerchannelvivo
 Canal6
    canal6partidos
 Caracol
-   caracol
    canalcaracoltv
+   caracoltvdeporteslatinoscolombia
    canalcaracol
-ChelseaTv
-   chelseatv
+   caracoltv
 FoxSports
     foxsports
     foxsportsdeportes
-WWE
-   wwewwe
-SportTv1
-   sportTv1
-CMD
-   cmd
-   cmddeportefutbol
-CopaOro
-   copaoro
-CopaAmericaChile2015
-   copaamericachile2015
-   americatv
+    foxsports2
+    foxsport
 Univision
    univision
    univisiondeportes
@@ -393,52 +551,31 @@ Magazine
    Magazine
 Canal9
    Canal 9
-AricaTv
-   Arica Tv
+
 Axn
    axn
    axnlatino
-Canal13
-   Canal 13
-CDF
-   CDF
+
 Tnt
-   tnt
-   tntespana
    tntlatino
+   canaltnt
+   tntespana
+   tntlas
+   tnt
+   tnthd
+
+
 Fox
    lafox
    foxlatino
-ChileVision
-   chilevision
+
 CNN
    cnnchile
-TVN
-   tvn
-TvUniacc
-   tvuniacc
-RCNTelevision
-   rcntelevision
-Telepacifico
-   telepacifico
-NTN24
-   ntntv
-   tn24
-RTUNoticias
-   rtu
-TeleMedellin
-   telemedellin
-UnoEcuador
-   canalunoecuador
-EcuadorTv
-   ecuadortv
-Ecuavisa
-   ecuavisa
+
 Nick
    nick
    nickhd
-GamaTv
-   gamatv
+
 Telemundo
    telemundo
 Azteca7
@@ -447,83 +584,61 @@ AztecaTrece
    azteca13tv
 Atv
    atv
-Atvplus
-   atv+
 FrecuenciaLatina
    frecuencialatina
-GlobalTv
-   globaltelevision
-MonteCarlo
-   montecarlotv
-VTV
-   vtvuruguay
-DATTelevision
-   dattv
-Telesur
-   telesur
+
 Venevision
    venevision
-GloboVision
-   globovisionvenezuela
+
 CanalSur
-   Autonomicos Canal Sur
    canalsur
+   canalsur2opcion
+   canalsur1
+   canalsur2
 AndaluciaTv
-   Autonomicos Andalucia Tv
    andaluciatv
 Esport3
    sport3
    esport3
 Tv3
-   Autonomicos Tv 3
    tv3
 AragonTv
-   Autonomicos Aragon Tv
    aragontv
 GaliciaTv
-   Autonomicos Galicia Tv
    galiciatv
    tvgalicia
 ExtremaduraTv
-   Autonomicos Extremadura Tv
    extremaduratv
 TeleMadrid
-   Autonomicos TeleMadrid
    telemadrid
 LaOtra
-   Autonomicos La Otra
    laotra
 I3
-   Autonomicos I3
    ib3
+   ib3baleares
 TvCanaria
-   Autonomicos Tv Canaria
    tvcanaria
 LevanteTv
-   Autonomicos Levante Tv
    levantetv
 Cyl7
-   Autonomicos Cyl 7
    cyltv
 ETBSat
-   Autonomicos ETB Sat
    etbsat
+   etb
 TPA
-   Autonomicos TPA
    tpa
 TeleAsturias
-   Autonomicos Tele Asturias
    teleasturias
 Nick
    Nick
 EventosDeportivos1
-   Eventos Deportivos 1
+   eventosdeportivos1
 EventosDeportivos2
-   Eventos Deportivos 2
+   eventosdeportivos2
 EventosDeportivos3
-   Eventos Deportivos 3
+   eventosdeportivos3
 EuropaPlus
-   Europa Plus
+   europaplus
    europaplustv
 KissTv
    Kiss Tv
@@ -531,8 +646,6 @@ KissTv
 PartyTv
    Party Tv
    partytv
-viajar
-   viajar
 AnimalPlanet
    discoveryanimalplanet
 CaballerosdelZodiaco

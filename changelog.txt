@@ -1,5 +1,9 @@
+------------------------------
+0.1.3 (03-04-2015)
+------------------------------
+Optimización y corrección de modulos, logos y codigo
 ﻿------------------------------
-de 0.1.0 a 0.1.2 (24-03-2016)
+0.1.2 (24-03-2016)
 ------------------------------
 - Se añade nota informativa en setting de conflito con pulsar y quasar en el mismo media center para evitar problemas
 ------------------------------

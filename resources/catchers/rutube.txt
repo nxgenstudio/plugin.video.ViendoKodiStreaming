@@ -1,6 +1,6 @@
-item_info_name=title
-item_info_from=@PARAM1@
-item_info_build=RuTube - %s 
+#item_info_name=title
+#item_info_from=@PARAM1@
+#item_info_build=RuTube - %s 
 
 item_info_name=tmp
 item_info_from=@PARAM1@
@@ -10,5 +10,3 @@ item_info_build=%s
 item_info_name=url
 item_info_from=path + '/' + first + '/' + second + '/' + channel
 item_info_build=rtmp://video-2-10.rutube.ru:1935/rutube_vod_1/ playpath=mp4:%s.mp4 swfurl=http://rutube.ru/player.swf
-
-
