@@ -822,3 +822,107 @@
     combatedelsiglo
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]RAW[/COLOR]
     raw
+
+# Arena
+
+[COLOR blue]Deportes [COLOR lime]Arena Visión 1[/COLOR]
+    arena1
+[COLOR blue]Deportes [COLOR lime]Arena Visión 2[/COLOR]
+    arena2
+[COLOR blue]Deportes [COLOR lime]Arena Visión 3[/COLOR]
+    arena3
+[COLOR blue]Deportes [COLOR lime]Arena Visión 4[/COLOR]
+    arena4
+[COLOR blue]Deportes [COLOR lime]Arena Visión 5[/COLOR]
+    arena5
+[COLOR blue]Deportes [COLOR lime]Arena Visión 6[/COLOR]
+    arena6
+[COLOR blue]Deportes [COLOR lime]Arena Visión 7[/COLOR]
+    arena7
+[COLOR blue]Deportes [COLOR lime]Arena Visión 8[/COLOR]
+    arena8
+[COLOR blue]Deportes [COLOR lime]Arena Visión 9[/COLOR]
+    arena9
+[COLOR blue]Deportes [COLOR lime]Arena Visión 10[/COLOR]
+    arena10
+[COLOR blue]Deportes [COLOR lime]Arena Visión 11[/COLOR]
+    arena11
+[COLOR blue]Deportes [COLOR lime]Arena Visión 12[/COLOR]
+    arena12
+[COLOR blue]Deportes [COLOR lime]Arena Visión 13[/COLOR]
+    arena13
+[COLOR blue]Deportes [COLOR lime]Arena Visión 14[/COLOR]
+    arena14
+[COLOR blue]Deportes [COLOR lime]Arena Visión 15[/COLOR]
+    arena15
+[COLOR blue]Deportes [COLOR lime]Arena Visión 16[/COLOR]
+    arena16
+[COLOR blue]Deportes [COLOR lime]Arena Visión 17[/COLOR]
+    arena17
+[COLOR blue]Deportes [COLOR lime]Arena Visión 18[/COLOR]
+    arena18
+[COLOR blue]Deportes [COLOR lime]Arena Visión 19[/COLOR]
+    arena19
+[COLOR blue]Deportes [COLOR lime]Arena Visión 20[/COLOR]
+    arena20
+[COLOR blue]Deportes [COLOR lime]Arena Visión 21[/COLOR]
+    arena21
+[COLOR blue]Deportes [COLOR lime]Arena Visión 22[/COLOR]
+    arena22
+[COLOR blue]Deportes [COLOR lime]Arena Visión 23[/COLOR]
+    arena23
+[COLOR blue]Deportes [COLOR lime]Arena Visión 24[/COLOR]
+    arena24
+[COLOR blue]Deportes [COLOR lime]Arena Visión 25[/COLOR]
+    arena25
+[COLOR blue]Deportes [COLOR lime]Arena Visión 26[/COLOR]
+    arena26
+[COLOR blue]Deportes [COLOR lime]Arena Visión 27[/COLOR]
+    arena27
+[COLOR blue]Deportes [COLOR lime]Arena Visión 28[/COLOR]
+    arena28
+[COLOR blue]Deportes [COLOR lime]Arena Visión 29[/COLOR]
+    arena29
+[COLOR blue]Deportes [COLOR lime]Arena Visión 30[/COLOR]
+    arena30
+[COLOR blue]Deportes [COLOR lime]Arena Visión 31[/COLOR]
+    arena31
+[COLOR blue]Deportes [COLOR lime]Arena Visión 32[/COLOR]
+    arena32
+[COLOR blue]Deportes [COLOR lime]Arena Visión 33[/COLOR]
+    arena33
+[COLOR blue]Deportes [COLOR lime]Arena Visión 34[/COLOR]
+    arena34
+[COLOR blue]Deportes [COLOR lime]Arena Visión 35[/COLOR]
+    arena35
+[COLOR blue]Deportes [COLOR lime]Arena Visión 36[/COLOR]
+    arena36
+
+# TuGoleada
+
+[COLOR blue]Deportes [COLOR red]Canal 1[/COLOR]
+    CANAL1
+[COLOR blue]Deportes [COLOR red]Canal 2[/COLOR]
+    CANAL2
+[COLOR blue]Deportes [COLOR red]Canal 3[/COLOR]
+    CANAL3
+[COLOR blue]Deportes [COLOR red]Canal 4[/COLOR]
+    CANAL4
+[COLOR blue]Deportes [COLOR cyan]Canal 5[/COLOR]
+    CANAL5
+[COLOR blue]Deportes [COLOR cyan]Canal 6[/COLOR]
+    CANAL6
+[COLOR blue]Deportes [COLOR cyan]Canal 7[/COLOR]
+    CANAL7
+[COLOR blue]Deportes [COLOR cyan]Canal 8[/COLOR]
+    CANAL8
+[COLOR blue]Deportes [COLOR yellow]Canal 9[/COLOR]
+    CANAL9
+[COLOR blue]Deportes [COLOR yellow]Canal 10[/COLOR]
+    CANAL10
+[COLOR blue]Deportes [COLOR yellow]Canal 11[/COLOR]
+    CANAL11
+[COLOR blue]Deportes [COLOR yellow]Canal 12[/COLOR]
+    CANAL12
+[COLOR blue]Deportes [COLOR yellow]NO DISPONIBLE[/COLOR]
+    NODISPONIBLE
