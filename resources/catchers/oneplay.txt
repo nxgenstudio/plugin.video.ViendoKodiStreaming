@@ -1,8 +1,8 @@
 #IPv6? > override in hosts file > 104.28.25.40 oneplay.tv
-#item_info_name=title
-#item_info_from=@PARAM1@
-#item_info_convert=parseText('%s','.*canal\+(\w+)')
-#item_info_build=%s
+item_info_name=title2
+item_info_from=@PARAM1@
+item_info_convert=parseText('%s','.*canal\+(\w+)')
+item_info_build=%s
 
 item_info_name=id
 item_info_from=@PARAM1@
@@ -16,13 +16,15 @@ item_info_build=%s
 item_info_name=cTxt
 item_info_from=pageUrl
 item_info_convert=getInfo('%s','.*?[\W]["']([^"']{2000,10000})["']','@REFERER@')
+item_info_convert=replace('%s','\\x','\x')
 item_info_convert=unicode_escape
 item_info_convert=debug
 item_info_build=%s
 
 item_info_name=key
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*?[\W]["']([^"']{40})["']','@REFERER@')
+item_info_convert=getInfo('%s','.*?[\W]["']([^"']{50})["']','@REFERER@')
+item_info_convert=replace('%s','\\x','\x')
 item_info_convert=unicode_escape
 item_info_convert=debug
 item_info_build=%s
@@ -50,7 +52,7 @@ item_info_name=cd
 item_info_build=http://oneplay.tv/crossdomain.xml
 
 item_info_name=page2
-item_info_from=http://oneplay.tv/embed/?i='+id+'&n='+title+'&w=100%25&h=480&token='+token
+item_info_from=http://oneplay.tv/embed/?i='+id+'&n='+title2+'&w=100%25&h=480&token='+token
 item_info_build=%s
 
 item_info_name=k1

@@ -1,6 +1,7 @@
-#item_info_name=title
-#item_info_from=@PARAM1@
-#item_info_build=sostart - %s
+#miss1
+item_info_name=title2
+item_info_from=@PARAM1@
+item_info_build=sostart - %s
 
 item_info_name=pageUrl
 item_info_from=@PARAM1@

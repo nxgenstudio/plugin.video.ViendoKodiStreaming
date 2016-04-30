@@ -1,6 +1,6 @@
-#item_info_name=title
-#item_info_from=@PARAM1@
-#item_info_build=Streamup - %s
+item_info_name=title2
+item_info_from=@PARAM1@
+item_info_build=Streamup - %s
 
 item_info_name=playUrl
 item_info_from=@PARAM1@

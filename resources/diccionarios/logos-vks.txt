@@ -122,6 +122,10 @@ icon
    el13elcanaleltrece
    el13
    tvpublica
+   supervivientes
+   supervivientes2016y
+   bemad
+   bemadcanaldocumental
 
 DisneyChannel
     disneychannel
@@ -249,6 +253,8 @@ Tcm
 CrimeyInvestigation
     c+i
     crimenyinvestigacion
+    crimen+investigacion
+    crimeninvestigacion
 CanalplusAccion
    canalplusaccion
    plusaccioncine
@@ -691,4 +697,74 @@ Ufc
 Unimas
    unimas
 a1
-   a1
+    arena1
+a2
+    arena2
+a3
+    arena3
+a4
+    arena4
+a5
+    arena5
+a6
+    arena6
+a7
+    arena7
+a8
+    arena8
+a9
+    arena9
+a10
+    arena10
+a11
+    arena11
+a12
+    arena12
+a13
+    arena13
+a14
+    arena14
+a15
+    arena15
+a16
+    arena16
+a17
+    arena17
+a18
+    arena18
+a19
+    arena19
+a20
+    arena20
+a21
+    arena21
+a22
+    arena22
+a23
+    arena23
+a24
+    arena24
+a25
+    arena25
+a26
+    arena26
+a27
+    arena27
+a28
+    arena28
+a29
+    arena29
+a30
+    arena30
+a31
+    arena31
+a32
+    arena32
+a33
+    arena33
+a34
+    arena34
+a35
+    arena35
+a36
+    arena36
