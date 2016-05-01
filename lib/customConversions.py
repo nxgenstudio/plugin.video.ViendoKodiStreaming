@@ -67,6 +67,7 @@ def select(params,src):
     return select(title, menuItems)
 
 def change(params,src):
+    # VKS
     paramArr = __parseParams(params)
     busca = paramArr[1]
     cambia = paramArr[2]
@@ -78,6 +79,7 @@ def change(params,src):
     return titulo
 
 def ifchange(params,src):
+    # VKS
     paramArr = __parseParams(params)
     busca1 = paramArr[1]
     busca2 = paramArr[2]
@@ -88,7 +90,6 @@ def ifchange(params,src):
         titulo = src
 
     return titulo
-
 
 def convDate(params, src):
     language = common.language
@@ -104,7 +105,6 @@ def convDate(params, src):
     else:
         params = params.strip("'")
         return dt.convDate(language, src,params)
-
 
 
 def convTimestamp(params, src):
@@ -204,6 +204,10 @@ def decodeBase64(src):
     from base64 import b64decode
     return b64decode(src)
 
+def encodeBase64(src):
+    from base64 import b64encode
+    return b64encode(src)
+
 def decodeRawUnicode(src):
     try:
         return src
@@ -216,10 +220,26 @@ def resolve(src):
         tmp_host = parsed_link.netloc.split(':')
         if tmp_host[0] == 'watch4.streamlive.to':
             servers = ['80.82.78.4',
+                       #'93.174.93.230',
                        '95.211.210.69',
                        '95.211.196.5',
                        '184.173.85.91',
+                       '85.17.31.102']
+                       #'169.54.85.69']
+            import random
+            tmp_host[0] = random.choice(servers)
+        elif tmp_host[0] == 'watch3.streamlive.to':
+            servers = ['184.173.85.91',
+                       '85.17.31.102',
                        '169.54.85.69']
+            import random
+            tmp_host[0] = random.choice(servers)
+        elif tmp_host[0] == 'xlive.sportstream365.com':
+            servers = ['185.28.190.158',
+                       '178.175.132.210',
+                       '178.17.168.90',
+                       '185.56.137.178',
+                       '94.242.254.72']
             import random
             tmp_host[0] = random.choice(servers)
         else:

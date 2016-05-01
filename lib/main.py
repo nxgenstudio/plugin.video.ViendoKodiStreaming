@@ -309,7 +309,7 @@ class Main:
             if url.startswith('favfolders'):
                 proceed = True
             else:
-                common.showInfo('Lo siento, no esta disponible')
+                common.showInfo('No stream available')
         elif count > 0 and not (common.getSetting('autoplay') == 'true' and count == 1 and len(tmpList.getVideos()) == 1):
             # sort methods
             sortKeys = tmpList.sort.split('|')
@@ -382,6 +382,7 @@ class Main:
             liz.setProperty('fanart_image', fanart)
             liz.setThumbnailImage(icon)
             common.log('main.py:374: setThumbnailImage is deprecated')
+
         """
         General Values that apply to all types:
             count         : integer (12) - can be used to store an id for later, or for sorting purposes
@@ -470,8 +471,8 @@ class Main:
 
         if definedIn:
             # Queue
-            #contextMenuItem = createContextMenuItem('Queue', Mode.QUEUE, codedItem)
-            #contextMenuItems.append(contextMenuItem)
+            # contextMenuItem = createContextMenuItem('Queue', Mode.QUEUE, codedItem)
+            # contextMenuItems.append(contextMenuItem)
 
             # Favourite
             if definedIn.endswith('favourites.cfg') or definedIn.startswith("favfolders/"):
@@ -632,11 +633,9 @@ class Main:
 
 
     def _parseParameters(self):
-
         mode = int(self.addon.queries['mode'])
         queryString = self.addon.queries['item']
         item = ListItem.create()
-
         if mode in [Mode.CHROME, Mode.ADDTOFAVOURITES, Mode.REMOVEFROMFAVOURITES, Mode.EDITITEM, Mode.WEBDRIVER]:
             item.infos = self.addon.parse_query(urllib.unquote(queryString),{})
         else:
@@ -659,6 +658,7 @@ class Main:
 
         paramstring = urllib.unquote_plus(parameter)
         common.log(paramstring)
+
         try:
 
             # if addon is started
@@ -693,7 +693,7 @@ class Main:
                 outfile.write('item_info_name=url\n'
                 + 'item_info_from=@PARAM1@\n' + addonTorrent + '\n' )
                 outfile.close()
-                common.showInfo('[COLOR red]NO INSTALAR[/COLOR] conjuntamente los addon pulsar y quasar.\nYa que tendremos problemas de compatibilidad y no funcionará ninguno. [COLOR lime] \nPara los torrent se utilizará: [/COLOR] ' + nametorrent )
+                common.showInfo('Para los torrent se utilizará ' + nametorrent )
 
             elif len(paramstring) <= 2:
                 mainMenu = ListItem.create()
@@ -703,7 +703,6 @@ class Main:
                     self.currentlist = tmpList
 
             else:
-
                 [mode, item] = self._parseParameters()
 
                 # switch(mode)
@@ -719,6 +718,7 @@ class Main:
                                 videos = self.currentlist.getVideos()
                                 if len(videos) == 1:
                                     self.playVideo(videos[0], True)
+
 
                 elif mode == Mode.ADDITEM:
                     tmp = os.path.normpath(paramstring.split('url=')[1])
@@ -784,6 +784,7 @@ class Main:
                         if xbmcUtils.getCurrentWindowXmlFile() == 'DialogAddonSettings.xml':
                             # workaround to update settings dialog
                             common.setSetting('', '')
+
 
         except Exception, e:
             common.showError('Error running ViendoKodiStreaming')

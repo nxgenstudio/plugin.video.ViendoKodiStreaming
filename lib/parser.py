@@ -6,6 +6,7 @@ import random
 import re
 import urllib
 import string
+import xbmc
 from string import lower
 
 from entities.CList import CList
@@ -84,23 +85,19 @@ class Parser(object):
             return ParsingResult(ParsingResult.Code.WEBREQUEST_FAILED, tmpList)
 
         # Remove duplicates
-
         if tmpList.skill.find('allowDuplicates') == -1:
             urls = []
             for i in range(len(tmpList.items)-1,-1,-1):
                 item = tmpList.items[i]
-
                 tmpUrl = item['url']
                 tmpCfg = item['cfg']
                 if not tmpCfg:
                     tmpCfg = ''
-
                 if not urls.__contains__(tmpUrl + '|' + tmpCfg):
                     urls.append(tmpUrl + '|' + tmpCfg)
                 else:
                     if item['type'] !='say':
                         tmpList.items.remove(item)
-
 
         return ParsingResult(ParsingResult.Code.SUCCESS, tmpList)
 
@@ -170,7 +167,6 @@ class Parser(object):
             demystify = False
             back = ''
             startUrl = inputList.curr_url
-
             while count == 0 and i <= maxits:
                 if i > 1:
                     ignoreCache = True
@@ -289,7 +285,7 @@ class Parser(object):
         rtmp = findRTMP(pageUrl, data)
         if rtmp:
             item = CListItem()
-            #item['title'] = 'RTMP* - ' + rtmp[1]
+            item['title'] = 'RTMP* - ' + rtmp[1]
             item['type'] = 'video'
             item['url'] = rtmp[0] + ' playPath=' + rtmp[1] + ' swfUrl=' + rtmp[2] +' swfVfy=1 live=true pageUrl=' + pageUrl
             item.merge(lItem)
@@ -315,8 +311,6 @@ class Parser(object):
             return findContentRefreshLink(page, data)
         elif findVideoFrameLink(page, data):
             return findVideoFrameLink(page, data)
-
-
         elif findEmbedPHPLink(data):
             return findEmbedPHPLink(data)
 
@@ -358,6 +352,7 @@ class Parser(object):
                         tmpList.skill = value
                     elif key == 'catcher':
                         tmpList.catcher = value
+
                     elif key == 'item_infos':
                         rule_tmp = CRuleItem()
                         hasOwnCfg = False
@@ -370,6 +365,7 @@ class Parser(object):
                         rule_tmp.curr = value
                     elif key == 'item_precheck':
                         rule_tmp.precheck = value
+
                     elif key.startswith('item_info'):
                         tmpkey = key[len('item_info'):]
                         if tmpkey == '_name':
@@ -402,7 +398,6 @@ class Parser(object):
 
                             if not hasOwnCfg:
                                 refInf = CItemInfo()
-
                                 refInf.name = 'catcher'
                                 refInf.build = tmpList.catcher
 
@@ -614,6 +609,9 @@ class Parser(object):
             elif command == 'decodeBase64':
                 src = cc.decodeBase64(src)
 
+            elif command == 'encodeBase64':
+                src = cc.encodeBase64(src)
+
             elif command == 'decodeRawUnicode':
                 src = cc.decodeRawUnicode(src)
 
@@ -627,7 +625,6 @@ class Parser(object):
                 if 'stkey' in item.infos:
                     src = src.replace(item.infos['stkey'],'')
                 src = cc.decodeXppod_hls(src)
-
 
             elif command == 'replace':
                 src = cc.replace(params, src)
@@ -666,7 +663,7 @@ class Parser(object):
                 src = dt.getUnixTimestamp()
 
             elif command == 'rowbalance':
-                src = rb.get(src)
+                src = rb.get()
 
             elif command == 'urlMerge':
                 src = cc.urlMerge(params, src)
@@ -697,6 +694,18 @@ class Parser(object):
 
             elif command == 'debug':
                 common.log('Debug from cfg file: ' + src)
+
+            elif command == 'startLivestreamerProxy':
+                libPath = os.path.join(common.Paths.rootDir, 'lib')
+                serverPath = os.path.join(libPath, 'livestreamerXBMCLocalProxy.py')
+                try:
+                    import requests
+                    requests.get('http://127.0.0.1:19000/version')
+                    proxyIsRunning = True
+                except:
+                    proxyIsRunning = False
+                if not proxyIsRunning:
+                    xbmc.executebuiltin('RunScript(' + serverPath + ')')
 
             elif command == 'divide':
                 paramArr = params.split(',')
