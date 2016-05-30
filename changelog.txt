@@ -1,4 +1,9 @@
 ﻿------------------------------
+0.1.15 (30-05-2016)
+
+reparacion de update
+
+------------------------------
 0.1.14 (30-05-2016)
 
 reparacion de lib por cambios en el user agent de dinozap
