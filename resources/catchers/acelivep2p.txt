@@ -1,5 +1,5 @@
 item_info_name=title
-item_info_build=Reproducir enlace AceStream con P2P-Streams
+item_info_build=AceStream - P2P Streams Addon
 
 item_info_name=url
 item_info_from=@PARAM1@

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Entretenimiento
 
 [COLOR blue]Entretenimiento [COLOR lime]Tve 1[/COLOR]
@@ -25,6 +26,7 @@
     telecincooficial
     opcion2telecinco
     tele5
+    granhermano16lacasa
 [COLOR blue]Entretenimiento [COLOR lime]La Sexta[/COLOR]
     lasexta
     lasextahd
@@ -541,6 +543,7 @@
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]DirecTv Sport[/COLOR]
     directvsports
     directvsport
+    directvsportsargentina
 [COLOR gold]Latinos [COLOR blue]Deportes [COLOR lime]Espn[/COLOR]
     espn
     espnlatinoamerica

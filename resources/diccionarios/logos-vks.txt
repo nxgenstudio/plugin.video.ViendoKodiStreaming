@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 icon
    peliculas
    cazapesca
@@ -13,6 +14,7 @@ icon
    granhermanotv
    directvsports
    directvsport
+   directvsportsargentina
    gh16
    granhermano16
    granhermanomexico
@@ -157,6 +159,7 @@ Tele5
    telecincooficial
    opcion2telecinco
    tele5
+   granhermano16lacasa
 LaSexta
    lasexta
    lasextahd

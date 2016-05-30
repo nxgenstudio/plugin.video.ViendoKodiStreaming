@@ -67,7 +67,6 @@ def select(params,src):
     return select(title, menuItems)
 
 def change(params,src):
-    # VKS
     paramArr = __parseParams(params)
     busca = paramArr[1]
     cambia = paramArr[2]
@@ -75,11 +74,9 @@ def change(params,src):
         titulo = src
     else:
         titulo = cambia
-
     return titulo
 
 def ifchange(params,src):
-    # VKS
     paramArr = __parseParams(params)
     busca1 = paramArr[1]
     busca2 = paramArr[2]
@@ -88,7 +85,6 @@ def ifchange(params,src):
         titulo = cambia
     else:
         titulo = src
-
     return titulo
 
 def convDate(params, src):
@@ -116,6 +112,16 @@ def convTimestamp(params, src):
     else:
         newfrmt = params.strip("'")
         return dt.convTimestamp(src, str(newfrmt))
+
+def convDateUtil(params, src):
+    if params.find("','") != -1:
+        paramArr = __parseParams(params)
+        newfrmt = paramArr[0]
+        timezone = paramArr[1]
+        return dt.convDateUtil(src, str(newfrmt), timezone)
+    else:
+        newfrmt = params.strip("'")
+        return dt.convDateUtil(src, str(newfrmt))
 
 
 def offset(params, src):
@@ -224,24 +230,53 @@ def resolve(src):
                        '95.211.210.69',
                        '95.211.196.5',
                        '184.173.85.91',
-                       '85.17.31.102']
-                       #'169.54.85.69']
-            import random
-            tmp_host[0] = random.choice(servers)
-        elif tmp_host[0] == 'watch3.streamlive.to':
-            servers = ['184.173.85.91',
                        '85.17.31.102',
                        '169.54.85.69']
             import random
             tmp_host[0] = random.choice(servers)
+        elif tmp_host[0] == 'watch3.streamlive.to':
+            servers = ['80.82.78.4',
+                       '95.211.210.69',
+                       '184.173.85.91',
+                       '85.17.31.102',
+                       '95.211.196.5']
+            import random
+            tmp_host[0] = random.choice(servers)
         elif tmp_host[0] == 'xlive.sportstream365.com':
-            servers = ['185.28.190.158',
+            servers = ['93.189.57.254',
+                       '185.28.190.158',
                        '178.175.132.210',
                        '178.17.168.90',
                        '185.56.137.178',
                        '94.242.254.72']
             import random
             tmp_host[0] = random.choice(servers)
+        elif tmp_host[0] == 'live.pub.stream':
+            servers = [ "195.154.169.244",
+                        "195.154.185.109",
+                        "195.154.179.159",
+                        "195.154.167.95",
+                        "62.210.203.163",
+                        "195.154.168.230",
+                        "62.210.203.170",
+                        "62.210.203.167",
+                        "195.154.173.124",
+                        "195.154.172.90",
+                        "195.154.179.167",
+                        "195.154.177.110",
+                        "195.154.179.174",
+                        "195.154.168.218",
+                        "195.154.185.113",
+                        "195.154.187.46",
+                        "195.154.168.233",
+                        "195.154.187.23",
+                        "195.154.168.222",
+                        "195.154.169.233",
+                        "195.154.169.234",
+                        "195.154.182.101"]
+            import random
+            tmp_host[0] = random.choice(servers)
+
         else:
             tmp_host[0] = socket.gethostbyname(tmp_host[0])
         tmp_host = ':'.join(tmp_host)

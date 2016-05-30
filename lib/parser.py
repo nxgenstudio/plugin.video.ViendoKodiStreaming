@@ -285,7 +285,7 @@ class Parser(object):
         rtmp = findRTMP(pageUrl, data)
         if rtmp:
             item = CListItem()
-            item['title'] = 'RTMP* - ' + rtmp[1]
+            #item['title'] = 'RTMP* - ' + rtmp[1]
             item['type'] = 'video'
             item['url'] = rtmp[0] + ' playPath=' + rtmp[1] + ' swfUrl=' + rtmp[2] +' swfVfy=1 live=true pageUrl=' + pageUrl
             item.merge(lItem)
@@ -549,11 +549,13 @@ class Parser(object):
             elif command == 'convTimestamp':
                 src = cc.convTimestamp(params, src)
 
+            elif command == 'convDateUtil':
+                src = cc.convDateUtil(params, src)
+
             elif command == 'select':
                 src = cc.select(params, src)
                 if not src:
                     continue
-
             elif command == 'change':
                 src = cc.change(params, src)
 
@@ -663,7 +665,7 @@ class Parser(object):
                 src = dt.getUnixTimestamp()
 
             elif command == 'rowbalance':
-                src = rb.get()
+                src = rb.get(src)
 
             elif command == 'urlMerge':
                 src = cc.urlMerge(params, src)

@@ -1,5 +1,6 @@
 item_info_name=title
-item_info_build=Reproducir enlace SopCast con P2P-Stream
+item_info_from=@PARAM1@
+item_info_build=SopCast [%s] - P2P-Streams Addon
 
 item_info_name=url
 item_info_from=@PARAM1@

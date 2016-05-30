@@ -12,7 +12,7 @@ item_info_from=@PARAM1@
 item_info_convert=parseText('%s','.*pid=([^"'; ]+))
 item_info_build=%s
 
-item_info_name=title
+item_info_name=title2
 item_info_from=fid
 item_info_build=ZoomTV - %s
 

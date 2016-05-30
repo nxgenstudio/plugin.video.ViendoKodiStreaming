@@ -52,7 +52,7 @@ class MyHandler(BaseHTTPRequestHandler):
             for extension in extensions:
                 if request_path.endswith(extension):
                     self.send_response(404)
-                    request_path = ''      
+                    request_path = ''
             request_path = re.sub(r"\?.*", "", request_path)
             if request_path == "stop":
                 sys.exit()
@@ -78,7 +78,7 @@ class MyHandler(BaseHTTPRequestHandler):
         except:
             pass
 
-            
+
     """
     Sends the requested file and add additional headers.
     """
@@ -98,7 +98,7 @@ class MyHandler(BaseHTTPRequestHandler):
         self.send_response(200)
         #print "XBMCLocalProxy: Sending headers..."
         self.end_headers()
-        
+
         if (sendData):
             #print "XBMCLocalProxy: Sending data..."
             fileout = self.wfile
@@ -110,7 +110,7 @@ class MyHandler(BaseHTTPRequestHandler):
                     while (buf != None and len(buf) > 0):
                         buf = response.read(300 * 1024)
                         fileout.write(buf)
-                        fileout.flush()
+                        #fileout.flush()
                     response.close()
                     fileout.close()
                     #print time.asctime(), "Closing connection"
