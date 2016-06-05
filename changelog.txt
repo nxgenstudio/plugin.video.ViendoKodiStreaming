@@ -1,4 +1,9 @@
 ﻿------------------------------
+0.1.17 (5-06-2016)
+
+reparacion de dinozap again XD
+
+------------------------------
 0.1.16 (3-06-2016)
 
 reparacion de dinozap nuevamente
