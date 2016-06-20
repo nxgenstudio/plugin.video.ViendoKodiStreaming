@@ -910,3 +910,273 @@
     arena35
 [COLOR blue]Deportes [COLOR lime]Arena Visión Canal 36[/COLOR]
     arena36
+
+# Serbia ace
+
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 1[/COLOR]
+    ACEARENASPORT1
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 2[/COLOR]
+    ACEARENASPORT2
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 3[/COLOR]
+    ACEARENASPORT3
+[COLOR blue]Deportes [COLOR yellow]Belarus 5[/COLOR]
+    ACEBELARUS5
+[COLOR blue]Deportes [COLOR yellow]Canal + Deportes[/COLOR]
+    ACECANALPLUSDEPORTES
+[COLOR blue]Deportes [COLOR yellow]Canal + Deportes 2[/COLOR]
+    ACECANALPLUSDEPORTES2
+[COLOR blue]Deportes [COLOR yellow]Canal + Liga[/COLOR]
+    ACECANALPLUSLIGA
+[COLOR blue]Deportes [COLOR yellow]Diema Sport[/COLOR]
+    ACEDIEMA
+[COLOR blue]Deportes [COLOR yellow]Diema Sport 2[/COLOR]
+    ACEDIEMA2
+[COLOR blue]Deportes [COLOR yellow]DigiSport 1 HU[/COLOR]
+    ACEDIGISPORT1HU
+[COLOR blue]Deportes [COLOR yellow]DigiSport 2 HU[/COLOR]
+    ACEDIGISPORT2HU
+[COLOR blue]Deportes [COLOR yellow]DigiSport 3 HU[/COLOR]
+    ACEDIGISPORT3HU
+[COLOR blue]Deportes [COLOR yellow]Canal + Futbol[/COLOR]
+    ACECANALPLUSFUTBOL
+[COLOR blue]Deportes [COLOR yellow]Futbol 1 UA[/COLOR]
+    ACEFUTBOL1UA
+[COLOR blue]Deportes [COLOR yellow]Futbol 2 UA[/COLOR]
+    ACEFUTBOL2UA
+[COLOR blue]Deportes [COLOR yellow]Idman[/COLOR]
+    ACEIDMAN
+[COLOR blue]Deportes [COLOR yellow]Match Arena[/COLOR]
+    ACEMATCHARENA
+[COLOR blue]Deportes [COLOR yellow]Match Futbol 1[/COLOR]
+    ACEMATCHFUTBOL1
+[COLOR blue]Deportes [COLOR yellow]Match Futbol 2[/COLOR]
+    ACEMATCHFUTBOL2
+[COLOR blue]Deportes [COLOR yellow]Match Futbol 3[/COLOR]
+    ACEMATCHFUTBOL3
+[COLOR blue]Deportes [COLOR yellow]Match Game[/COLOR]
+    ACEMATCHGAME
+[COLOR blue]Deportes [COLOR yellow]NFL Network [/COLOR]
+    ACENFLNETWORK
+[COLOR blue]Deportes [COLOR yellow]Premier Sport[/COLOR]
+    ACEPREMIERSPORTS
+[COLOR blue]Deportes [COLOR yellow]Setanta Sport[/COLOR]
+    ACESETANTASPORTS
+[COLOR blue]Deportes [COLOR yellow]Sport 1 CZ[/COLOR]
+    ACESPORT1CZ
+[COLOR blue]Deportes [COLOR yellow]Sport 1 LT[/COLOR]
+    ACESPORT1LT
+[COLOR blue]Deportes [COLOR yellow]Sport 2 CZ[/COLOR]
+    ACESPORT2CZ
+[COLOR blue]Deportes [COLOR yellow]Sport 1 UA[/COLOR]
+    ACESPORT1UA
+[COLOR blue]Deportes [COLOR yellow]Sport 2 UA[/COLOR]
+    ACESPORT2UA
+[COLOR blue]Deportes [COLOR yellow]Sport Klub 1[/COLOR]
+    ACESPORTKLUB1
+[COLOR blue]Deportes [COLOR yellow]TSN 1[/COLOR]
+    ACETSN1
+[COLOR blue]Deportes [COLOR yellow]Viasat Fotboll[/COLOR]
+    ACEVIASATFOTBOLL
+[COLOR blue]Deportes [COLOR yellow]Viasat Hockey[/COLOR]
+    ACEVIASATHOCKEY
+[COLOR blue]Deportes [COLOR yellow]Sport Baltic[/COLOR]
+    ACEVIASATSPORTBALTIC
+[COLOR blue]Deportes [COLOR yellow]Via TV3 Sport 1[/COLOR]
+    ACEVIASATTV3SPORT1
+[COLOR blue]Deportes [COLOR yellow]Via TV3 Sport 2[/COLOR]
+    ACEVIASATTV3SPORT2
+
+# Serbia Flash
+
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 1[/COLOR]
+    ARENASPORT1
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 2[/COLOR]
+    ARENASPORT2
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 3[/COLOR]
+    ARENASPORT3
+[COLOR blue]Deportes [COLOR yellow]Arena Sport 4[/COLOR]
+    ARENASPORT4
+[COLOR blue]Deportes [COLOR yellow]Arriadia[/COLOR]
+    ARRIADIA
+[COLOR blue]Deportes [COLOR yellow]Azteca 7[/COLOR]
+    AZTECA7
+[COLOR blue]Deportes [COLOR yellow]Bt Espn[/COLOR]
+    BTESPN
+[COLOR blue]Deportes [COLOR yellow]BT Sport 1[/COLOR]
+    BTSPORT11
+[COLOR blue]Deportes [COLOR yellow]BT Sport 2[/COLOR]
+    BTSPORT22
+[COLOR blue]Deportes [COLOR yellow]BT Sport EU[/COLOR]
+    BTSPORTEU
+[COLOR blue]Deportes [COLOR yellow]Canal 3[/COLOR]
+    CANAL3
+[COLOR blue]Deportes [COLOR yellow]C + Sport Pol[/COLOR]
+    CANALPLUSSPORTPOLAND
+[COLOR blue]Deportes [COLOR yellow]Deport TV[/COLOR]
+    DEPORTV
+[COLOR blue]Deportes [COLOR yellow]Digisport 3 SK[/COLOR]
+    DIGISPORT3SK
+[COLOR blue]Deportes [COLOR yellow]ERT[/COLOR]
+    ERT
+[COLOR blue]Deportes [COLOR yellow]EuroSport 1[/COLOR]
+    EUROSPORT1
+[COLOR blue]Deportes [COLOR yellow]EuroSport2[/COLOR]
+    EUROSPORT2
+[COLOR blue]Deportes [COLOR yellow]Futbol 1[/COLOR]
+    FUTBOL1
+[COLOR blue]Deportes [COLOR yellow]Futbol 2[/COLOR]
+    FUTBOL2
+[COLOR blue]Deportes [COLOR yellow]HRT 2[/COLOR]
+    HRT2
+[COLOR blue]Deportes [COLOR yellow]M4 Sport[/COLOR]
+    M4SPORT
+[COLOR blue]Deportes [COLOR yellow]Mach Igra[/COLOR]
+    MATCHIGRA
+[COLOR blue]Deportes [COLOR yellow]Mega Tv Esp[/COLOR]
+    MEGATVESPANA
+[COLOR blue]Deportes [COLOR yellow]NBA Versus[/COLOR]
+    NBAVERSUS
+[COLOR blue]Deportes [COLOR yellow]NHL Network[/COLOR]
+    NHLNETWORK
+[COLOR blue]Deportes [COLOR yellow]Nova Sport 1 CZ[/COLOR]
+    NOVASPORT1CZ
+[COLOR blue]Deportes [COLOR yellow]ORF Sport +[/COLOR]
+    ORFSPORTPLUS
+[COLOR blue]Deportes [COLOR yellow]Polsat Sport[/COLOR]
+    POLSATSPORT
+[COLOR blue]Deportes [COLOR yellow]Premier[/COLOR]
+    PREMIER
+[COLOR blue]Deportes [COLOR yellow]Pro TV[/COLOR]
+    PROTV
+[COLOR blue]Deportes [COLOR yellow]Publica TV[/COLOR]
+    PUBLICATV
+[COLOR blue]Deportes [COLOR yellow]Real Madrid[/COLOR]
+    REALMADRID
+[COLOR blue]Deportes [COLOR yellow]Setanta[/COLOR]
+    SETANTA
+[COLOR blue]Deportes [COLOR yellow]Setanta Plus[/COLOR]
+    SETANTAPLUS
+[COLOR blue]Deportes [COLOR yellow]Sky Bundes 1[/COLOR]
+    SKYBUNDESLIGA1
+[COLOR blue]Deportes [COLOR yellow]Sport 1 SLO[/COLOR]
+    SPORT1SLO
+[COLOR blue]Deportes [COLOR yellow]Sport 1 UA[/COLOR]
+    SPORT1UA
+[COLOR blue]Deportes [COLOR yellow]Sport 2 SLO[/COLOR]
+    SPORT2SLO
+[COLOR blue]Deportes [COLOR yellow]Sport 2 UA[/COLOR]
+    SPORT2UA
+[COLOR blue]Deportes [COLOR yellow]Sport Klub 1[/COLOR]
+    SPORTKLUB1
+[COLOR blue]Deportes [COLOR yellow]Sport Klub 3[/COLOR]
+    SPORTKLUB2
+[COLOR blue]Deportes [COLOR yellow]Sport Klub 3[/COLOR]
+    SPORTKLUB3
+[COLOR blue]Deportes [COLOR yellow]SuperSport 1[/COLOR]
+    SUPERSPORT1
+[COLOR blue]Deportes [COLOR yellow]SuperSport 2[/COLOR]
+    SUPERSPORT2
+[COLOR blue]Deportes [COLOR yellow]SuperSport 3[/COLOR]
+    SUPERSPORT3
+[COLOR blue]Deportes [COLOR yellow]SuperSport 4[/COLOR]
+    SUPERSPORT4
+[COLOR blue]Deportes [COLOR yellow]Telek. Futbol[/COLOR]
+    TELEKANALFUTBOL
+[COLOR blue]Deportes [COLOR yellow]TRT 1[/COLOR]
+    TRT1
+[COLOR blue]Deportes [COLOR yellow]TRT Spor[/COLOR]
+    TRTSPOR
+[COLOR blue]Deportes [COLOR yellow]TVP 1[/COLOR]
+    TVP1
+[COLOR blue]Deportes [COLOR yellow]TVR 1[/COLOR]
+    TVR1
+[COLOR blue]Deportes [COLOR yellow]UFC TV[/COLOR]
+    UFCTV
+[COLOR blue]Deportes [COLOR yellow]Viasat Fotball[/COLOR]
+    VIASATFOTBALL
+[COLOR blue]Deportes [COLOR yellow]Viasat Hockey[/COLOR]
+    VIASATHOCKEY
+[COLOR blue]Deportes [COLOR yellow]Sport Baltic[/COLOR]
+    VIASATSPORTBALTIC
+[COLOR blue]Deportes [COLOR yellow]W 9[/COLOR]
+    W9
+[COLOR blue]Deportes [COLOR yellow]WWE TV[/COLOR]
+    WWETV
+
+
+# Tu Goleada
+
+[COLOR blue]Deportes [COLOR yellow]Canal 1[/COLOR]
+    CANAL1
+[COLOR blue]Deportes [COLOR yellow]Canal 2[/COLOR]
+    CANAL2
+[COLOR blue]Deportes [COLOR yellow]Canal 3[/COLOR]
+    CANAL3
+[COLOR blue]Deportes [COLOR yellow]Canal 4[/COLOR]
+    CANAL4
+[COLOR blue]Deportes [COLOR yellow]Canal 5[/COLOR]
+    CANAL5
+[COLOR blue]Deportes [COLOR yellow]Canal 6[/COLOR]
+    CANAL6
+[COLOR blue]Deportes [COLOR yellow]Canal 7[/COLOR]
+    CANAL7
+[COLOR blue]Deportes [COLOR yellow]Canal 8[/COLOR]
+    CANAL8
+[COLOR blue]Deportes [COLOR yellow]Canal 9[/COLOR]
+    CANAL9
+[COLOR blue]Deportes [COLOR yellow]Canal 10[/COLOR]
+    CANAL10
+[COLOR blue]Deportes [COLOR yellow]Canal 11[/COLOR]
+    CANAL11
+[COLOR blue]Deportes [COLOR yellow]Canal 12[/COLOR]
+    CANAL12
+[COLOR blue]Deportes [COLOR yellow]Canal 13[/COLOR]
+    CANAL13
+[COLOR blue]Deportes [COLOR yellow]Canal 14[/COLOR]
+    CANAL14
+[COLOR blue]Deportes [COLOR yellow]Canal 15[/COLOR]
+    CANAL15
+[COLOR blue]Deportes [COLOR yellow]Canal 16[/COLOR]
+    CANAL16
+[COLOR blue]Deportes [COLOR yellow]Canal 17[/COLOR]
+    CANAL17
+[COLOR blue]Deportes [COLOR yellow]Canal 18[/COLOR]
+    CANAL18
+[COLOR blue]Deportes [COLOR yellow]Canal 19[/COLOR]
+    CANAL19
+[COLOR blue]Deportes [COLOR yellow]Canal 20[/COLOR]
+    CANAL20
+[COLOR blue]Deportes [COLOR yellow]Canal 21[/COLOR]
+    CANAL21
+[COLOR blue]Deportes [COLOR yellow]Canal 22[/COLOR]
+    CANAL22
+[COLOR blue]Deportes [COLOR yellow]Canal 23[/COLOR]
+    CANAL23
+[COLOR blue]Deportes [COLOR yellow]Canal 24[/COLOR]
+    CANAL24
+[COLOR blue]Deportes [COLOR yellow]Canal 25[/COLOR]
+    CANAL25
+[COLOR blue]Deportes [COLOR yellow]Canal 26[/COLOR]
+    CANAL26
+[COLOR blue]Deportes [COLOR yellow]Canal 27[/COLOR]
+    CANAL27
+[COLOR blue]Deportes [COLOR yellow]Canal 28[/COLOR]
+    CANAL28
+[COLOR blue]Deportes [COLOR yellow]Canal 29[/COLOR]
+    CANAL29
+[COLOR blue]Deportes [COLOR yellow]Canal 30[/COLOR]
+    CANAL30
+[COLOR blue]Deportes [COLOR yellow]Canal 31[/COLOR]
+    CANAL31
+[COLOR blue]Deportes [COLOR yellow]Canal 32[/COLOR]
+    CANAL32
+[COLOR blue]Deportes [COLOR yellow]Canal 33[/COLOR]
+    CANAL33
+[COLOR blue]Deportes [COLOR yellow]Canal 34[/COLOR]
+    CANAL34
+[COLOR blue]Deportes [COLOR yellow]Canal 35[/COLOR]
+    CANAL35
+[COLOR blue]Deportes [COLOR yellow]Canal 36[/COLOR]
+   CANAL36
+[COLOR blue]Deportes [COLOR yellow]Canal 37[/COLOR]
+    CANAL37

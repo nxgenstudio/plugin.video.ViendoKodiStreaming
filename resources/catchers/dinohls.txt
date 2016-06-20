@@ -1,8 +1,8 @@
-item_info_name=title
+item_info_name=title2
 item_info_from=@PARAM1@
 item_info_convert=parseText('%s','.*(?:id|file)=(\w+))
 item_info_convert=startLivestreamerProxy
-item_info_build=ViendoKodi Streaming - %s
+item_info_build=DinoZap - %s
 
 item_info_name=pageUrl
 item_info_from=@PARAM1@
@@ -15,21 +15,29 @@ item_info_from=pageUrl
 item_info_convert=getInfo('%s','.*var\s*\w+\s*=\s*"([^'"]*)".*?var\s*\w+\s*=\s*"([^'"]+).*?var\s*\w+\s*=\s*"([^'"]+).*','@REFERER@','ssx1|ssx4|tk')
 item_info_build=%s
 
-item_info_name=xaf1
+item_info_name=alt_tmp
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*getHAGE.{25,30}\w+?.*?['"](\w+)['"].*','@REFERER@')
+#item_info_convert=getInfo('%s','.*function\s+ajajsaalsjkas.*?\w+\s*=\s*.*?'([^']+).*?\w+\s*=\s*.*?'([^']+).*?\w+\s*=\s*.*?'([^']+).*?\w+\s*=\s*.*?'([^']+).*','@REFERER@','s1|s2|s3|s4')
+item_info_convert=getInfo('%s','.*?BannerAds.*?function\s*?\w{10,40}?\(\)\{.*?\w+\s*=\s*.*?'([^']+).*?\w+\s*=\s*.*?'([^']+).*?\w+\s*=\s*.*?'([^']+).*?\w+\s*=\s*.*?'([^']+).*?','@REFERER@','s1|s2|s3|s4')
+item_info_build=%s
+
+item_info_name=xaf1
+item_info_from=s1
 #item_info_convert=debug
 item_info_build=.*id="%s"\s*value="([^'"]*)
 
 item_info_name=gada
-item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*getHAGE.{57,63}\w+?.*?['"](\w+)['"]','@REFERER@')
+item_info_from=s2
+#item_info_convert=debug
+item_info_build=.*id="%s"\s*value="([^'"]*)
+
+item_info_name=thas
+item_info_from=s3
 #item_info_convert=debug
 item_info_build=.*id="%s"\s*value="([^'"]*)
 
 item_info_name=tkne
-item_info_from=pageUrl
-item_info_convert=getInfo('%s','(?s).*getHAGE.{250,260}\w+?.*?['"](\w+)['"].*','@REFERER@')
+item_info_from=s4
 #item_info_convert=debug
 item_info_build=.*id="%s"\s*value="([^'"]*)
 
@@ -51,10 +59,6 @@ item_info_convert=getInfo('%s','@tkne@','@REFERER@')
 #item_info_convert=debug
 item_info_build=%s
 
-#item_info_name=alt_tmp
-#item_info_from=pageUrl
-#item_info_convert=getInfo('%s','.*id="[^'"]+"\s*value="([^'"]*)".*?id="[^'"]+"\s*value="([^'"]+).*?id="[^'"]+"\s*value="([^'"]+).*','@REFERER@','alt_ssx1|alt_ssx4|alt_tk')
-#item_info_build=%s
 
 item_info_name=tk1
 item_info_from=tk || alt_tk
@@ -78,7 +82,7 @@ item_info_build=%s
 
 item_info_name=dom2
 item_info_from=dom1+tk1
-item_info_convert=parseText('%s','.*(http:\/\/(?:www.)?.*\/)(\w+\.php)','dom2|tk2')
+item_info_convert=parseText('%s','.*(http://(?:www.)?.*\/)(\w+\.php)','dom2|tk2')
 item_info_build=%s
 
 item_info_name=file.tmp
@@ -113,7 +117,7 @@ item_info_convert=encodeBase64
 item_info_build=%s
 
 item_info_name=name
-item_info_from=title
+item_info_from=title2
 item_info_convert=quote('%s')
 item_info_build=%s
 

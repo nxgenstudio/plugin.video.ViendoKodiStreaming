@@ -771,3 +771,267 @@ a35
     arena35
 a36
     arena36
+
+Arena Sport 1
+    ACEARENASPORT1
+Arena Sport 2
+    ACEARENASPORT2
+Arena Sport 3
+    ACEARENASPORT3
+Belarus 5
+    ACEBELARUS5
+Canal + Deportes
+    ACECANALPLUSDEPORTES
+Canal + Deportes 2
+    ACECANALPLUSDEPORTES2
+Canal + Liga
+    ACECANALPLUSLIGA
+Diema Sport
+    ACEDIEMA
+Diema Sport 2
+    ACEDIEMA2
+DigiSport 1 HU
+    ACEDIGISPORT1HU
+DigiSport 2 HU
+    ACEDIGISPORT2HU
+DigiSport 3 HU
+    ACEDIGISPORT3HU
+Canal + Futbol
+    ACECANALPLUSFUTBOL
+Futbol 1 UA
+    ACEFUTBOL1UA
+Futbol 2 UA
+    ACEFUTBOL2UA
+Idman
+    ACEIDMAN
+Match Arena
+    ACEMATCHARENA
+Match Futbol 1
+    ACEMATCHFUTBOL1
+Match Futbol 2
+    ACEMATCHFUTBOL2
+Match Futbol 3
+    ACEMATCHFUTBOL3
+Match Game
+    ACEMATCHGAME
+NFL Network
+    ACENFLNETWORK
+Premier Sport
+    ACEPREMIERSPORTS
+Setanta Sport
+    ACESETANTASPORTS
+Sport 1 CZ
+    ACESPORT1CZ
+Sport 1 LT
+    ACESPORT1LT
+Sport 2 CZ
+    ACESPORT2CZ
+Sport 1 UA
+    ACESPORT1UA
+Sport 2 UA
+    ACESPORT2UA
+Sport Klub 1
+    ACESPORTKLUB1
+TSN 1
+    ACETSN1
+Viasat Fotboll
+    ACEVIASATFOTBOLL
+Viasat Hockey
+    ACEVIASATHOCKEY
+Sport Baltic
+    ACEVIASATSPORTBALTIC
+Via TV3 Sport 1
+    ACEVIASATTV3SPORT1
+Via TV3 Sport 2
+    ACEVIASATTV3SPORT2
+
+
+Arena Sport 1
+    ARENASPORT1
+Arena Sport 2
+    ARENASPORT2
+Arena Sport 3
+    ARENASPORT3
+Arena Sport 4
+    ARENASPORT4
+Arriadia
+    ARRIADIA
+Azteca 7
+    AZTECA7
+Bt Espn
+    BTESPN
+BT Sport 1
+    BTSPORT11
+BT Sport 2
+    BTSPORT22
+BT Sport EU
+    BTSPORTEU
+Canal 3 HD Mol
+    CANAL3
+C + Sport Pol
+    CANALPLUSSPORTPOLAND
+Deport TV
+    DEPORTV
+Digisport 3 SK
+    DIGISPORT3SK
+ERT
+    ERT
+EuroSport 1
+    EUROSPORT1
+EuroSport2
+    EUROSPORT2
+Futbol 1
+    FUTBOL1
+Futbol 2
+    FUTBOL2
+HRT 2
+    HRT2
+M4 Sport
+    M4SPORT
+Mach Igra
+    MATCHIGRA
+Mega Tv Esp
+    MEGATVESPANA
+NBA Versus
+    NBAVERSUS
+NHL Network
+    NHLNETWORK
+Nova Sport 1 CZ
+    NOVASPORT1CZ
+ORF Sport +
+    ORFSPORTPLUS
+Polsat Sport
+    POLSATSPORT
+Premier
+    PREMIER
+Pro TV
+    PROTV
+Publica TV
+    PUBLICATV
+Real Madrid
+    REALMADRID
+Setanta
+    SETANTA
+Setanta Plus
+    SETANTAPLUS
+Sky Bundes 1
+    SKYBUNDESLIGA1
+Sport 1 SLO
+    SPORT1SLO
+Sport 1 UA
+    SPORT1UA
+Sport 2 SLO
+    SPORT2SLO
+Sport 2 UA
+    SPORT2UA
+Sport Klub 1
+    SPORTKLUB1
+Sport Klub 3
+    SPORTKLUB2
+Sport Klub 3
+    SPORTKLUB3
+SuperSport 1
+    SUPERSPORT1
+SuperSport 2
+    SUPERSPORT2
+SuperSport 3
+    SUPERSPORT3
+SuperSport 4
+    SUPERSPORT4
+Telek. Futbol
+    TELEKANALFUTBOL
+TRT 1
+    TRT1
+TRT Spor
+    TRTSPOR
+TVP 1
+    TVP1
+TVR 1
+    TVR1
+UFC TV
+    UFCTV
+Viasat Fotball
+    VIASATFOTBALL
+Viasat Hockey
+    VIASATHOCKEY
+Sport Baltic
+    VIASATSPORTBALTIC
+W 9
+    W9
+WWE TV
+    WWETV
+
+Canal 1
+    CANAL1
+Canal 2
+    CANAL2
+Canal 3
+    CANAL3
+Canal 4
+    CANAL4
+Canal 5
+    CANAL5
+Canal 6
+    CANAL6
+Canal 7
+    CANAL7
+Canal 8
+    CANAL8
+Canal 9
+    CANAL9
+Canal 10
+    CANAL10
+Canal 11
+    CANAL11
+Canal 12
+    CANAL12
+Canal 13
+    CANAL13
+Canal 14
+    CANAL14
+Canal 15
+    CANAL15
+Canal 16
+    CANAL16
+Canal 17
+    CANAL17
+Canal 18
+    CANAL18
+Canal 19
+    CANAL19
+Canal 20
+    CANAL20
+Canal 21
+    CANAL21
+Canal 22
+    CANAL22
+Canal 23
+    CANAL23
+Canal 24
+    CANAL24
+Canal 25
+    CANAL25
+Canal 26
+    CANAL26
+Canal 27
+    CANAL27
+Canal 28
+    CANAL28
+Canal 29
+    CANAL29
+Canal 30
+    CANAL30
+Canal 31
+    CANAL31
+Canal 32
+    CANAL32
+Canal 33
+    CANAL33
+Canal 34
+    CANAL34
+Canal 35
+    CANAL35
+Canal 36
+   CANAL36
+Canal 37
+    CANAL37
