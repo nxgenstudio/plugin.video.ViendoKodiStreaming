@@ -8,8 +8,11 @@
     </items_info>
 
 
-<item>
+                <item>
 	        <title>[COLOR blue]LISTA CANALES TOTAL PLAY MEXICO[/COLOR] </title>
                 <extrenallink>https://raw.githubusercontent.com/ViendoKodi/plugin.video.ViendoKodiStreaming/master/resources/imagenes/old/AndaluciaTv.m3u
 				</externallink>
 				 </item>
+				 
+				 
+</items>
